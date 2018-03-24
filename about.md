@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Contact Information
 permalink: /about/
 ---
 
-Some information about you!
+Instructor: Hao-Chuan Wang 
+Email: hciwang at ucdavis.edu
+Course website: http://hciwang.github.io
+Office hour: Friday 10:00-10:50AM at 3025 Kemper Hall
 
-### More Information
+TA: Shilpika Fnu
+Email: fshilpika at ucdavis.edu
+Office hour: TBD
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
