@@ -8,9 +8,9 @@ permalink: /lectures/
 Week 1  
 - 4/2 - [What is HCI, conceptualizing interactions](), [Course structure and requirements]()  
 Reading:
-- 4/4 - [Cognitive foundation](), [Design thinking tutorial/TA]()  
+- 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
-- 4/6 - [Design thinking tutorial/TA]()
+- 4/6 - [Design thinking tutorial]()
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
 
