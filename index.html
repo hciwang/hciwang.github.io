@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+  {% if post.title == "Overview" %}
     <article class="post">
 
       <h2><i>
@@ -16,5 +17,6 @@ layout: default
 
     <!--  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
+  {% endif %}
   {% endfor %}
 </div>
