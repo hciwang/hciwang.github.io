@@ -43,7 +43,7 @@ Week 4
 - 4/27
 
 
-### Assignments, readings and group project deliverables at a glance
+### Assignments, readings and deliverables at a glance:
 
 #### Readings
 #### Batch 1 (commenting on the discussion thread due Apr 13)
@@ -55,7 +55,7 @@ Week 4
 #### Batch 2
 #### Batch 3
 
-#### Individual Assignments
+#### Individual assignments
 
-#### Group Project
+#### Group project
 
