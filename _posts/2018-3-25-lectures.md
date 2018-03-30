@@ -11,7 +11,7 @@ Reading:  [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 1* [1]
 - 4/6 - [Design thinking tutorial]()  
-Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]
+Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
 
