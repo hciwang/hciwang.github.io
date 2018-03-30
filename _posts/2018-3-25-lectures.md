@@ -10,7 +10,7 @@ Week 1
 Reading:  [[Harpert et al., 2008]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
-- 4/6 - [Design thinking tutorial]()
+- 4/6 - [Design thinking tutorial]()  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [1]
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
