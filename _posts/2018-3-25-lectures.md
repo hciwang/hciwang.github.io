@@ -7,7 +7,7 @@ permalink: /lectures/
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
 - 4/2 - [What is HCI, conceptualizing interactions](), [Course structure and requirements]()  
-Reading:  [[Harpert et al., 2008]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
+Reading:  [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
 - 4/6 - [Design thinking tutorial]()  
