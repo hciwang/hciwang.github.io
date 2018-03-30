@@ -11,9 +11,11 @@ Reading:
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
 - 4/6 - [Design thinking tutorial]()
-Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* (note: this is a textbook of this course, and the book can be obtained from the UC Davis bookstore)
+Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [^footnote]
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
+
+[^footnote] This book is one of the textbooks of this course, and can be purchased at the university bookstore.
 
 Week 2
 - 4/9 - [Usability, heuristics]()
@@ -39,3 +41,5 @@ Week 4
 - 4/25
 - 4/27
 
+
+note: this is a textbook of this course, and the book can be obtained from the UC Davis bookstore. 
