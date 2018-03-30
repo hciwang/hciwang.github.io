@@ -7,7 +7,7 @@ permalink: /lectures/
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
 - 4/2 - [What is HCI, conceptualizing interactions](), [Course structure and requirements]()  
-Reading: 
+Reading:  [[Harpert et al., 2008]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
 - 4/6 - [Design thinking tutorial]()
@@ -15,7 +15,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
 
-[1] This book is one of the textbooks of this course, and can be purchased at the university bookstore.
+[1]This book is one of the textbooks of this course, and can be purchased at the university bookstore.
 
 Week 2
 - 4/9 - [Usability, heuristics]()
