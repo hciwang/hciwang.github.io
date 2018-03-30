@@ -7,7 +7,7 @@ permalink: /lectures/
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
 - 4/2 - [What is HCI, conceptualizing interactions](), [Course structure and requirements]()  
-Reading:
+Reading:[Norman]() The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1*
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
 - 4/6 - [Design thinking tutorial]()
