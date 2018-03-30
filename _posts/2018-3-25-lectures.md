@@ -15,8 +15,8 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
 
-[1]This book is one of the textbooks of this course, and can be purchased at the university bookstore.  
-[2]This book is one of the textbooks of this course, and can be purchased at the university bookstore.
+[1] This book is one of the textbooks, and can be purchased at the university bookstore.  
+[2] This book is one of the textbooks, and can be purchased at the university bookstore.
 
 Week 2
 - 4/9 - [Usability, heuristics]()
@@ -43,4 +43,19 @@ Week 4
 - 4/27
 
 
-note: this is a textbook of this course, and the book can be obtained from the UC Davis bookstore. 
+### Assignments, readings and group project deliverables at a glance
+
+#### Readings
+#### Batch 1 (commenting on the discussion thread due Apr 13)
+- [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 1*
+- [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1*
+-
+
+#### Batch 2
+#### Batch 3
+
+#### Individual Assignments
+
+#### Group Project
+
