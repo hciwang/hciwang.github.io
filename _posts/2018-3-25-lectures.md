@@ -7,10 +7,11 @@ permalink: /lectures/
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
 - 4/2 - [What is HCI, conceptualizing interactions](), [Course structure and requirements]()  
-Reading: [[Norman]]() The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1*
+Reading: 
 - 4/4 - [Cognitive foundation](), [Design thinking tutorial]()  
 Reading: 
 - 4/6 - [Design thinking tutorial]()
+Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* (note: this is a textbook of this course, and the book can be obtained from the UC Davis bookstore)
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
 
