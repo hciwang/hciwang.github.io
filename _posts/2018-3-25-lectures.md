@@ -6,7 +6,7 @@ permalink: /lectures/
 
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
-- 4/2 - [Course structure and requirements](https://canvas.ucdavis.edu/files/3201481/download?download_frd=1), [What is Human Computer Interaction design](https://canvas.ucdavis.edu/files/3200068/download?download_frd=1)  
+- 4/2 - [Course structure and requirements](https://www.dropbox.com/s/pay332s9uvy72gp/ECS189H_IntroHCI_week1_overview.pdf?dl=1), [What is Human Computer Interaction design](https://www.dropbox.com/s/e7oqpi1stguc9tb/ECS189H_IntroHCI_week1_what.pdf?dl=1)  
 Reading:  [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 - 4/4 - [Conceptualizing interactions](), [Design thinking tutorial]()  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 1* [1]
