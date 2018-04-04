@@ -10,7 +10,7 @@ Week 1
 Reading:  [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 - 4/4 - [Conceptualizing interaction design](https://www.dropbox.com/s/vyca221s2rutj8y/IntroHCI_week1_conceptualizing_interactions.pdf?dl=1), [Design thinking tutorial](https://www.dropbox.com/s/wj28q4420lqa3go/Tutorial_DT_process.pdf?dl=1)  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 1* [1]
-- 4/6 - [Design thinking tutorial](https://www.dropbox.com/s/wj28q4420lqa3go/Tutorial_DT_process.pdf?dl=1), [Design thinking worksheet by Stanford d.School](https://dschool.stanford.edu/s/Participant-Worksheet.pdf)  
+- 4/6 - [Design thinking tutorial](https://www.dropbox.com/s/wj28q4420lqa3go/Tutorial_DT_process.pdf?dl=1), [Design thinking worksheet](https://dschool.stanford.edu/s/Participant-Worksheet.pdf)  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
 Out: [Assignment 1: Identifying good and bad designs]()  
 Due: n/a
