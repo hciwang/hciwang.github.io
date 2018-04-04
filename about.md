@@ -13,5 +13,5 @@ Instructor: Hao-Chuan Wang
 TA: Shilpika Fnu
 - Email: fshilpika at ucdavis.edu
 - Office hour: Wednesday, 5:00PM - 7:00PM
-- Location: Kemper Hall 3055
+- Location: 3055 Kemper Hall 
 
