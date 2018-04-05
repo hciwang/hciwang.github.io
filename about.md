@@ -7,7 +7,7 @@ permalink: /about/
 Instructor: Hao-Chuan Wang 
 - Email: hciwang at ucdavis.edu
 - Course website: http://hciwang.github.io 
-- Office hour: Friday 10:00AM-10:50AM
+- Office hour: By Appointment
 - Location: 3025 Kemper Hall
 
 TA: Shilpika Fnu
