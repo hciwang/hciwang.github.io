@@ -19,11 +19,11 @@ Due: n/a
 [2] This book is one of the textbooks, and can be purchased at the university bookstore.
 
 Week 2
-- 4/9 - [Cognitive foundation](https://canvas.ucdavis.edu/files/3250608/download?download_frd=1)
+- 4/9 - [Cognitive foundation](https://canvas.ucdavis.edu/files/3250608/download?download_frd=1)  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*  
-- 4/11 - [Cognitive foundation cont.](https://canvas.ucdavis.edu/files/3250608/download?download_frd=1), [Needfinding tutorial]()
+- 4/11 - [Cognitive foundation cont.](https://canvas.ucdavis.edu/files/3250608/download?download_frd=1), [Needfinding tutorial]()  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3* 
-- 4/13 - [Needfinding tutorial]()
+- 4/13 - [Needfinding tutorial]()  
 Out: n/a  
 Due: [1st batch paper commenting due]()  
 [List of final project group members due]()
