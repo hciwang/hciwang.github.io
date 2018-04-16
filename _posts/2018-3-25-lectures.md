@@ -30,9 +30,9 @@ Due: [1st batch paper commenting due](https://canvas.ucdavis.edu/courses/225630/
 [List of final project group members due]()
 
 Week 3
-- 4/16
-Reading:
-- 4/18
+- 4/16 - [Emotional interaction](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1)  
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* 
+- 4/18 - [Emotional interaction](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1), [Interface Types]() 
 Reading:
 - 4/20
 Out: [Assignment 2]()  
