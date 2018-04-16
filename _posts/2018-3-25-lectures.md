@@ -33,7 +33,7 @@ Week 3
 - 4/16 - [Emotional interaction](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1)  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* 
 - 4/18 - [Emotional interaction](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1), [Interface Types]()  
-Reading:
+Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.  
 - 4/20
 Out: [Assignment 2]()  
 Due: [Assignment 1 due]()
