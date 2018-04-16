@@ -56,6 +56,9 @@ Week 4
 - [[Carroll]](https://canvas.ucdavis.edu/files/3250636/download?download_frd=1) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.
 
 #### Batch 2
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5*  
+- [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+
 #### Batch 3
 
 #### Individual assignments
