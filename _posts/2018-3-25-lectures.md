@@ -62,6 +62,7 @@ Week 4
 #### Batch 3
 
 #### Individual assignments
+- [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/225630/assignments/180502) due Apr 20    
 
 #### Group project
-
+- [[Project proposal]]
