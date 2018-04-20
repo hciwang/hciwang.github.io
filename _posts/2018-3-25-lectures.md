@@ -38,15 +38,20 @@ Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. 
 Out: [Assignment 2]() *Assignment 2 will be posted by Apr 21*  
 Due: [Assignment 1 due, Apr 20, 23:59](https://canvas.ucdavis.edu/courses/225630/assignments/180502)  
 
-Week 4
-- 4/23
-- 4/25
-- 4/27
+Week 4 *Guest Lecturer: [Dr. Patricia Kuo](http://tidal.northwestern.edu/people/pei-yi-kuo/), University of Michigan* . 
+- 4/23 - [Guest lecture: Design process revisited & design for behavioral change]() . 
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/files/3353707/download?download_frd=1) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
+- 4/25 - [Guest lecture: Design process revisited & design for behavioral change, cont.]() .  
+Reading:  
+- 4/27 - Studio activity: Group braisntorming for the final project
 
 Week 5
 - 4/30
+Reading:
 - 5/2
+Reading:
 - 5/4
+Reading:
 
 Week 6
 - 5/7
@@ -72,7 +77,9 @@ Week 7
 
 #### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/225630/assignments/192507) due May 7)   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5*  
-- [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+- [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.
+- [[Gaver et al.]](https://canvas.ucdavis.edu/files/3353707/download?download_frd=1) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
+- 
 
 #### Batch 3
 
