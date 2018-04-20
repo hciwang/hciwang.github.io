@@ -35,13 +35,28 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 4/18 - [Emotional interaction cont.](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1), [Brainstorming](https://canvas.ucdavis.edu/courses/225630/files?preview=3341670)                       
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.  
 - 4/20
-Out: [Assignment 2]()  
-Due: [Assignment 1 due]()
+Out: [Assignment 2]() *Assignment 2 will be posted by Apr 21*  
+Due: [Assignment 1 due, Apr 20, 23:59](https://canvas.ucdavis.edu/courses/225630/assignments/180502)  
 
 Week 4
 - 4/23
 - 4/25
 - 4/27
+
+Week 5
+- 4/30
+- 5/2
+- 5/4
+
+Week 6
+- 5/7
+- 5/9
+- 5/11
+
+Week 7
+- 5/14
+- 5/16
+- 5/18
 
 
 ### Assignments, readings and deliverables at a glance:
