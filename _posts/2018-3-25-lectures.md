@@ -43,7 +43,7 @@ Week 4 *Guest Lecturer: [Dr. Patricia Kuo](http://tidal.northwestern.edu/people/
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
 - 4/25 - [Guest lecture: Design process revisited & design for behavioral change, cont.]() .  
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
-- 4/27 - Studio activity: Group braisntorming for the final project . 
+- 4/27 - Studio activity: Group braisntorming for the final project .  
 Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353901) Fogg, BJ. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 
 Week 5
