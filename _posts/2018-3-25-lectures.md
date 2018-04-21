@@ -76,7 +76,7 @@ Week 7
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. *Chapter 3* 
 - [[Carroll]](https://canvas.ucdavis.edu/files/3250636/download?download_frd=1) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.
 
-#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/225630/assignments/192507) due May 7)   
+#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/225630/assignments/192507) due May 11)   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5*  
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.
 - [[Gaver et al.]](https://canvas.ucdavis.edu/files/3353707/download?download_frd=1) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
