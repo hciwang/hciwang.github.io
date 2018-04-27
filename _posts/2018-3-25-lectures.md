@@ -40,9 +40,9 @@ Out: [Assignment 2]() *Assignment 2 will be posted by Apr 21*
 Due: [Assignment 1 due, Apr 20, 23:59](https://canvas.ucdavis.edu/courses/225630/assignments/180502)  
 
 Week 4 *Guest Lecturer: [Dr. Patricia Kuo](http://tidal.northwestern.edu/people/pei-yi-kuo/), University of Michigan* . 
-- 4/23 - [Guest lecture: Design process revisited & design for behavioral change]() .  
+- 4/23 - [Guest lecture: Design process revisited & design for behavioral change](https://canvas.ucdavis.edu/courses/225630/files?preview=3414260) .  
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
-- 4/25 - [Guest lecture: Design process revisited & design for behavioral change, cont.]() .  
+- 4/25 - [Guest lecture: Design process revisited & design for behavioral change, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3414260) .  
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), [Project Proposal](https://canvas.ucdavis.edu/courses/225630/files?preview=3392172)  
 
 - 4/27 - Studio activity: Group brainstorming for the final project.  
