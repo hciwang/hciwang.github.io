@@ -35,7 +35,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 4/18 - [Emotional interaction cont.](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/225630/files?preview=3341670) .   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.  
 - 4/20
-Out: [Assignment 2]() *Assignment 2 will be posted by Apr 21*  
+Out: [Assignment 2](https://canvas.ucdavis.edu/courses/225630/assignments/193960) *Assignment 2 will be posted by Apr 21*  
 Due: [Assignment 1 due, Apr 20, 23:59](https://canvas.ucdavis.edu/courses/225630/assignments/180502)  
 
 Week 4 *Guest Lecturer: [Dr. Patricia Kuo](http://tidal.northwestern.edu/people/pei-yi-kuo/), University of Michigan* . 
@@ -88,6 +88,7 @@ Week 7
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/225630/assignments/180502) due Apr 20    
+- [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6   
 
 #### Group project
-- [[Project proposal]]
+- [[Project proposal]] due Apr 29  
