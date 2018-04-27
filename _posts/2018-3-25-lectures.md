@@ -45,6 +45,7 @@ Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/225630/files?previe
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) . 
 - 4/27 - Studio activity: Group brainstorming for the final project .     
 Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353901) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
 
 Week 5
 - 4/30
@@ -91,4 +92,4 @@ Week 7
 - [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6   
 
 #### Group project
-- [[Project proposal]] due Apr 29  
+- [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
