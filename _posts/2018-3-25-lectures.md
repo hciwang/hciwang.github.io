@@ -53,6 +53,7 @@ Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july
 - 5/2 - [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)    
 Reading:
 - 5/4 - [Review of key concepts for Midterm]()  
+Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 .  
 
 Week 6
 - 5/7
