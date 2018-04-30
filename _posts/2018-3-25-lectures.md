@@ -49,7 +49,7 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/
 
 Week 5
 - 4/30 - [Interface types](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)   
-Reading:
+Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 - 5/2 - [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)    
 Reading:
 - 5/4 - [Review of key concepts for Midterm]()  
@@ -82,6 +82,7 @@ Week 7
 - [[Gaver et al.]](https://canvas.ucdavis.edu/files/3353707/download?download_frd=1) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
 - [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 - [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353901) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+- [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
 
 
 #### Batch 3
