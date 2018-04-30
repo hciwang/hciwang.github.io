@@ -48,12 +48,11 @@ Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview
 Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
 
 Week 5
-- 4/30
+- 4/30 - [Interface types](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)   
 Reading:
-- 5/2
+- 5/2 - [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)    
 Reading:
-- 5/4
-Reading:
+- 5/4 - [Review of key concepts for Midterm]()  
 
 Week 6
 - 5/7
