@@ -50,7 +50,7 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/
 Week 5
 - 4/30 - [Interface types](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)   
 Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
-- 5/2 - [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)
+- 5/2 - [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)                                     
 Reading: [Prototyping](https://canvas.ucdavis.edu/courses/225630/files?preview=3451233)
 - 5/4 - [Review of key concepts for Midterm]()  
 Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 .  
