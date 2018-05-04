@@ -53,7 +53,7 @@ Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july
 - 5/2 - [Prototyping, Discussion session](https://canvas.ucdavis.edu/courses/225630/files?preview=3451233), [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)                                     
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.
 - 5/4 - [Review of key concepts for Midterm]()  
-Reading: [Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
 Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 .  
 
 Week 6
