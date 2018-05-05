@@ -52,7 +52,7 @@ Week 5
 Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 - 5/2 - [Prototyping, Discussion session](https://canvas.ucdavis.edu/courses/225630/files?preview=3451233), [Interface types cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3430296)                                     
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.
-- 5/4 - [Review of key concepts for Midterm](https://canvas.ucdavis.edu/courses/225630/files?preview=3474515)   
+- 5/4 - [Review for Midterm](https://canvas.ucdavis.edu/courses/225630/files?preview=3474515)   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
 Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 .  
 
