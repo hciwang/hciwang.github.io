@@ -57,7 +57,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 .  
 
 Week 6
-- 5/7
+- 5/7 - [Prototyping, Part I](https://canvas.ucdavis.edu/courses/225630/files?preview=3491453) .  
 - 5/9
 - 5/11
 
