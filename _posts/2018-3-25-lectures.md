@@ -58,7 +58,7 @@ Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/course
 
 Week 6
 - 5/7 - [Prototyping, Part I](https://canvas.ucdavis.edu/courses/225630/files?preview=3491453) .  
-Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) . Usability.gove. Prototyping.  
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 - 5/9
 - 5/11
 
@@ -88,7 +88,7 @@ Week 7
 - [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
-- [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) . Usability.gove. Prototyping.  
+- [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 
 
 
