@@ -59,7 +59,7 @@ Due: [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/course
 Week 6
 - 5/7 - [Prototyping, Part I](https://canvas.ucdavis.edu/courses/225630/files?preview=3491453) .  
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
-- 5/9
+- 5/9 -  
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.
 - 5/11
 
