@@ -60,6 +60,7 @@ Week 6
 - 5/7 - [Prototyping, Part I](https://canvas.ucdavis.edu/courses/225630/files?preview=3491453) .  
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 - 5/9
+Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.
 - 5/11
 
 Week 7
@@ -89,6 +90,7 @@ Week 7
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
 - [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
+- [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.  
 
 
 
