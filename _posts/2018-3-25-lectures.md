@@ -61,12 +61,17 @@ Week 6
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 - 5/9 -  [Prototyping, Studio](https://canvas.ucdavis.edu/courses/225630/files?preview=3520813)                             
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.
-- 5/11
+- 5/11 - Midterm
+Due: 2nd batch paper commenting due
 
 Week 7
-- 5/14
-- 5/16
-- 5/18
+- 5/14 - [Prototyping, Part II](https://canvas.ucdavis.edu/courses/225630/files?preview=3555772)   
+Reading:   
+- 5/16 - 
+Reading:  
+- 5/18 -   
+Readiing:  
+Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20  
 
 
 ### Assignments, readings and deliverables at a glance:
@@ -102,3 +107,4 @@ Week 7
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
+- [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20  
