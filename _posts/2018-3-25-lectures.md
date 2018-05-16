@@ -67,7 +67,7 @@ Due: 2nd batch paper commenting due
 Week 7
 - 5/14 - [Prototyping, Part II](https://canvas.ucdavis.edu/courses/225630/files?preview=3555772)   
 Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
-- 5/16 -   
+- 5/16 - [Video prototyping](https://canvas.ucdavis.edu/courses/225630/files?preview=3577055)  
 Reading: [[Klemmer et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3573169) Klemmer, S. R., Sinha, A. K., Chen, J., Landay, J. A., Aboobaker, N., & Wang, A. 2000. Suede: a Wizard of Oz Prototyping Tool for Speech User Interfaces. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
 - 5/18 -   
 Reading:  
