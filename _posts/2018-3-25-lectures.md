@@ -34,7 +34,7 @@ Week 3
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* . 
 - 4/18 - [Emotional interaction cont.](https://canvas.ucdavis.edu/files/3304737/download?download_frd=1), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/225630/files?preview=3341670) .   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.  
-- 4/20
+- 4/20  
 Out: [Assignment 2](https://canvas.ucdavis.edu/courses/225630/assignments/193960) *Assignment 2 will be posted by Apr 21*  
 Due: [Assignment 1 due, Apr 20, 23:59](https://canvas.ucdavis.edu/courses/225630/assignments/180502)  
 
@@ -71,6 +71,7 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 Reading: [[Klemmer et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3573169) Klemmer, S. R., Sinha, A. K., Chen, J., Landay, J. A., Aboobaker, N., & Wang, A. 2000. Suede: a Wizard of Oz Prototyping Tool for Speech User Interfaces. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
 - 5/18 -   
 Reading:  
+Out: [[Assignment 3]]()  
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20  
 
 
