@@ -74,6 +74,20 @@ Reading:
 Out: [[Assignment 3]]()  
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20  
 
+Week 8
+- 5/21 -  
+- 5/23 -   
+- 5/25 -   
+
+Week 9
+- 5/28 -   
+- 5/30 -   
+- 6/1 -  
+
+Week 10
+- 6/4 -   
+- 6/6 -   
+- 6/8 -  
 
 ### Assignments, readings and deliverables at a glance:
 
