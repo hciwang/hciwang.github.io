@@ -67,7 +67,7 @@ Due: 2nd batch paper commenting due
 Week 7
 - 5/14 - [Prototyping, Part II](https://canvas.ucdavis.edu/courses/225630/files?preview=3555772)   
 Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
-- 5/16 - 
+- 5/16 -   
 Reading:  
 - 5/18 -   
 Readiing:  
@@ -99,7 +99,11 @@ Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/1
 
 
 
-#### Batch 3
+#### Batch 3 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/225630/discussion_topics/182487) due June 1)  
+- [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
+- 
+
+
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/225630/assignments/180502) due Apr 20    
