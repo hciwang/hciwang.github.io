@@ -101,7 +101,7 @@ Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/1
 
 #### Batch 3 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/225630/discussion_topics/182487) due June 1)  
 - [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
-- 
+- [[Klemmer et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3573169) Klemmer, S. R., Sinha, A. K., Chen, J., Landay, J. A., Aboobaker, N., & Wang, A. 2000. Suede: a Wizard of Oz Prototyping Tool for Speech User Interfaces. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 
 
 
