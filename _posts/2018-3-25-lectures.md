@@ -70,8 +70,8 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 - 5/16 - [Video prototyping](https://canvas.ucdavis.edu/courses/225630/files?preview=3577055)  
 Reading: [[Klemmer et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3573169) Klemmer, S. R., Sinha, A. K., Chen, J., Landay, J. A., Aboobaker, N., & Wang, A. 2000. Suede: a Wizard of Oz Prototyping Tool for Speech User Interfaces. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
 - 5/18 -   Prototyping studio   
-Reading: [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88)     
-Out: [[Assignment 3]]() . 
+Reading: [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
+Out: [[Assignment 3]]() Assignment 3 will be posted on *May 21*
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20    
 
 Week 8
