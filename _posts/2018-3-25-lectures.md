@@ -75,8 +75,8 @@ Out: [[Assignment 3]]() Assignment 3 will be posted on *May 21* .
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20      
 
 Week 8
-- 5/21 -   
-Reading:  
+- 5/21 -  [Introducing Evaluation](https://canvas.ucdavis.edu/courses/225630/files?preview=3613857) .  
+Reading:   
 - 5/23 -  
 Reading:  
 - 5/25 -  
