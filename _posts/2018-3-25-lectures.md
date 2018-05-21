@@ -129,7 +129,7 @@ Week 10
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/225630/assignments/180502) due Apr 20    
 - [[Assignment 2: Needfinding and Persona]](https://canvas.ucdavis.edu/courses/225630/assignments/193960) due May 6 
-- [[Assignment 3: Reflection and Redesgin]]() due June 3  
+- [[Assignment 3: Reflection and Redesign]]() due June 3  
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
