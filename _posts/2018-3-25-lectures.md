@@ -75,14 +75,19 @@ Out: [[Assignment 3]]() Assignment 3 will be posted on *May 21* .
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20      
 
 Week 8
-- 5/21 -  
-- 5/23 -   
-- 5/25 -   
+- 5/21 -   
+Reading:  
+- 5/23 -  
+Reading:  
+- 5/25 -  
+Reading:  
 
 Week 9
-- 5/28 -   
-- 5/30 -   
+- 5/28 -  National Holiday. No Class.
+- 5/30 -  
+Reading:  
 - 6/1 -  
+Reading:  
 
 Week 10
 - 6/4 -   
