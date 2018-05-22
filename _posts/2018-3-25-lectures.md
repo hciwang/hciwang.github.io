@@ -76,7 +76,7 @@ Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/1
 
 Week 8
 - 5/21 -  [Introducing Evaluation](https://canvas.ucdavis.edu/courses/225630/files?preview=3613857) .  
-Reading:   
+Reading:   [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
 - 5/23 -  
 Reading:  
 - 5/25 -  
@@ -123,6 +123,7 @@ Week 10
 - [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
 - [[Klemmer et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3573169) Klemmer, S. R., Sinha, A. K., Chen, J., Landay, J. A., Aboobaker, N., & Wang, A. 2000. Suede: a Wizard of Oz Prototyping Tool for Speech User Interfaces. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 - [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
+-  [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
 
 
 
