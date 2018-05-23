@@ -77,7 +77,7 @@ Due: [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/1
 Week 8
 - 5/21 -  [Introducing Evaluation](https://canvas.ucdavis.edu/courses/225630/files?preview=3613857) .  
 Reading:   [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
-- 5/23 -  [[Controlled Experiment]](https://canvas.ucdavis.edu/courses/225630/files?preview=3639815)  
+- 5/23 -  [Controlled Experiment](https://canvas.ucdavis.edu/courses/225630/files?preview=3639815)   
 Reading:  
 - 5/25 -  
 Reading:  
