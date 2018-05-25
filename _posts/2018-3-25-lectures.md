@@ -79,7 +79,7 @@ Week 8
 Reading:   [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
 - 5/23 -  [Controlled Experiment](https://canvas.ucdavis.edu/courses/225630/files?preview=3639815)   
 Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
-- 5/25 -  Studio activity - experimental design. Download the [[experimental design worksheet]](https://canvas.ucdavis.edu/courses/225630/files?preview=3655633)  .
+- 5/25 -  Studio activity - experimental design. Download the [[experimental design worksheet]](https://canvas.ucdavis.edu/courses/225630/files?preview=3655652)  .  
 Reading:  
 
 Week 9
