@@ -124,6 +124,7 @@ Week 10
 - [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 -  [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
 -  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+-  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.    
 
 
 
