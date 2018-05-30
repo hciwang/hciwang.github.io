@@ -89,9 +89,9 @@ Reading:
 Reading:  
 
 Week 10
-- 6/4 -   
-- 6/6 -   
-- 6/8 -  
+- 6/4 -   [State of Art of HCI Research]()
+- 6/6 -   [Conclusion]()  
+
 
 ### Assignments, readings and deliverables at a glance:
 
