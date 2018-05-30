@@ -83,9 +83,9 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 
 Week 9
 - 5/28 -  National Holiday. No Class.
-- 5/30 -  
+- 5/30 -  [Non-experimental evaluation approaches](https://canvas.ucdavis.edu/courses/225630/files?preview=3685278)   
 Reading:  
-- 6/1 -  
+- 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685278)   
 Reading:  
 
 Week 10
