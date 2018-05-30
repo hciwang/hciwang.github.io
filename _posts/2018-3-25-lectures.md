@@ -83,9 +83,9 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 
 Week 9
 - 5/28 -  National Holiday. No Class.
-- 5/30 -  [Non-experimental evaluation methods](https://canvas.ucdavis.edu/courses/225630/files?preview=3685278)   
+- 5/30 -  [Non-experimental evaluation methods](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
 Reading:  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.   
-- 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685278)   
+- 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
 Reading:  
 
 Week 10
