@@ -86,7 +86,7 @@ Week 9
 - 5/30 -  [Non-experimental evaluation methods](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
 Reading:  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.   
 - 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
-Reading:  
+Reading:  [[Luger & Sellen]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/p5286-luger.pdf) Luger, E., & Sellen, A. 2017. "Like Having a Really bad PA": The Gulf between User Expectation and Experience of Conversational Agents. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).      
 
 Week 10
 - 6/4 -   [State of Art of HCI Research]()
@@ -124,7 +124,8 @@ Week 10
 - [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 -  [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 13*   
 -  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
--  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.    
+-  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.
+-  [[Luger & Sellen]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/p5286-luger.pdf) Luger, E., & Sellen, A. 2017. "Like Having a Really bad PA": The Gulf between User Expectation and Experience of Conversational Agents. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).      
 
 
 
