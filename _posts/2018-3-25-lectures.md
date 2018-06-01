@@ -85,7 +85,7 @@ Week 9
 - 5/28 -  National Holiday. No Class.
 - 5/30 -  [Non-experimental evaluation methods](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
 Reading:  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3685336) Blythe, M., Monk, A., & Doughty, K. 2005. Socially dependable design: The challenge of aging populations for HCI. Interacting with Computers, 17, 672-689.   
-- 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421)   
+- 6/1 -  [Non-experimental evaluation approaches, cont.](https://canvas.ucdavis.edu/courses/225630/files?preview=3685421), Studio activity - interview. Download hte [[interview worksheet]](https://canvas.ucdavis.edu/courses/225630/files?preview=3703398)   
 Reading:  [[Luger & Sellen]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/p5286-luger.pdf) Luger, E., & Sellen, A. 2017. "Like Having a Really bad PA": The Gulf between User Expectation and Experience of Conversational Agents. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).      
 
 Week 10
