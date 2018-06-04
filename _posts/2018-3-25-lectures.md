@@ -89,7 +89,7 @@ Reading:  [[Blythe et al.]](https://canvas.ucdavis.edu/courses/225630/files?prev
 Reading:  [[Luger & Sellen]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/p5286-luger.pdf) Luger, E., & Sellen, A. 2017. "Like Having a Really bad PA": The Gulf between User Expectation and Experience of Conversational Agents. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).      
 
 Week 10
-- 6/4 -   [State of Art of HCI Research]()
+- 6/4 -   [Peer Feedback Studio](https://canvas.ucdavis.edu/courses/225630/files?preview=3722391)  
 - 6/6 -   [Conclusion]()  
 
 
