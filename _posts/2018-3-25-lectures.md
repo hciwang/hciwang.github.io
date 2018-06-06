@@ -90,7 +90,7 @@ Reading:  [[Luger & Sellen]](https://www.microsoft.com/en-us/research/wp-content
 
 Week 10
 - 6/4 -   [Peer Feedback Studio](https://canvas.ucdavis.edu/courses/225630/files?preview=3722391)  
-- 6/6 -   [Conclusion]()  
+- 6/6 -   [Conclusion, Sample HCI Research Topic - Interaction Beyond Individuals](https://canvas.ucdavis.edu/courses/225630/files?preview=3744557)    
 
 
 ### Assignments, readings and deliverables at a glance:
