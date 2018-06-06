@@ -137,4 +137,4 @@ Week 10
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/225630/assignments/192508) due Apr 29  
 - [[Progress report]](https://canvas.ucdavis.edu/courses/225630/assignments/199854) due May 20  
-- [[Final report, in SIGCHI Extended Abstratc Format]]() due June 16  
+- [[Final report, in SIGCHI Extended Abstratc Format]](https://canvas.ucdavis.edu/courses/225630/assignments/204412) due June 16  
