@@ -10,8 +10,8 @@ Instructor: Hao-Chuan Wang
 - Office hour: By Appointment
 - Location: 3025 Kemper Hall
 
-TA: Shilpika
-- Email: fshilpika at ucdavis.edu
-- Office hour: Wednesday, 5:00PM - 7:00PM
-- Location: 55 Kemper Hall 
+TA: Sandra Bae
+- Email: suybae at ucdavis.edu
+- Office hour: TBD
+- Location: TBD
 
