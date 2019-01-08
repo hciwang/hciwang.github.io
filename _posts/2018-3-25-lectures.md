@@ -6,10 +6,10 @@ permalink: /lectures/
 
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
-- 1/8 - [Course structure and requirements](), [What is Human Computer Interaction design]()  
+- 1/8 - [Course structure and requirements](https://canvas.ucdavis.edu/courses/293005/files?preview=4939673), [What is Human Computer Interaction design](https://canvas.ucdavis.edu/courses/293005/files?preview=4939672)  
 Reading:  [[Harpert et al.]](https://hxd.research.microsoft.com/work/being-human-human-computer-interaction-in-the-year-2020.php) Being Human. HCI in the Year 2020. Microsoft.
 
-- 1/10 - [Conceptualizing interaction design]()  
+- 1/10 - [Conceptualizing interaction design](https://canvas.ucdavis.edu/courses/293005/files?preview=4939671)  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 1* [1]   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
 
