@@ -30,8 +30,8 @@ Due: n/a
 Week 3
 - 1/22 - [Emotional interaction](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423)   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* .  
-- 1/24 - [Emotional interaction cont.](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/)  
-Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+- 1/24 - [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5085313) . 
+Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 Out: n/a  
 Due: [1st batch paper commenting due Jan 27th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/259373)   
