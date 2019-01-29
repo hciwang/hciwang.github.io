@@ -37,6 +37,15 @@ Out: n/a
 Due: [1st batch paper commenting due Jan 27th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/259373)   
 
 
+Week 4
+- 1/29 - [Emotional interaction cont.](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519) . 
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+
+- 1/31 - 
+Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .   
+Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353901) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
+Out: [Assignment 2]( ) *Assignment 2 will be posted by Feb 2*  
+Due: [Assignment 1: Conceptualizing Human Computer Interaction] (https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019    
 
 
 ### Assignments, readings and deliverables at a glance:
