@@ -25,6 +25,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*     
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/293005/files?preview=4983695) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
+
 Out: [Assignment 1: Conceptualizing Human Computer Interaction, due Feb 1st](https://canvas.ucdavis.edu/courses/293005/assignments/286899)  
 Due: n/a
 
@@ -33,6 +34,7 @@ Week 3
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* .  
 - 1/24 - [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5085313) . 
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+
 
 Out: n/a  
 Due: [1st batch paper commenting due Jan 27th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/259373)   
