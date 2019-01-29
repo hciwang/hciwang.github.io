@@ -42,14 +42,14 @@ Due: [1st batch paper commenting due Jan 27th](https://canvas.ucdavis.edu/course
 
 Week 4
 - 1/29 - [Emotional interaction cont.](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519) .   
-Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104539) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
 - 1/31 -     
-Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353707) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
-Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/225630/files?preview=3353901) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
+Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104541) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
+Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104543) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 Out: [Assignment 2]( ) *Assignment 2 will be posted by Feb 2*  
-Due: [Assignment 1: Conceptualizing Human Computer Interaction] (https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019    
+Due: [Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019    
 
 
 ### Assignments, readings and deliverables at a glance:
@@ -65,6 +65,10 @@ Due: [Assignment 1: Conceptualizing Human Computer Interaction] (https://canvas.
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* . 
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.  
 
+#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/293005/discussion_topics/272374) due Feb 17th)
+- [[Gaver et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104539) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
+- [[Fogg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104541) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) . 
+- [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104543) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 
 #### Individual assignments
