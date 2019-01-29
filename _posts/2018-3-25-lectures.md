@@ -75,3 +75,6 @@ Due: [Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.u
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019   
 
 #### Group project
+- [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
+- [[Progress report]]() due Mar 1 
+- [[Final report, in SIGCHI Extended Abstratc Format]]() duedate TBA
