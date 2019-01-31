@@ -41,7 +41,7 @@ Due: [1st batch paper commenting due Jan 27th](https://canvas.ucdavis.edu/course
 
 
 Week 4
-- 1/29 - [Emotional interaction cont.](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519) .   
+- 1/29 - [Emotional interaction cont., with updated slides](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5127104), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519) .   
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104539) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
 - 1/31 -     
