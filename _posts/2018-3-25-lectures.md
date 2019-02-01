@@ -44,7 +44,7 @@ Week 4
 - 1/29 - [Emotional interaction cont., with updated slides](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5127104), [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519) .   
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104539) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
-- 1/31 -     
+- 1/31 - [Brainstorming tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5104519)  
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104541) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
 Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104543) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
