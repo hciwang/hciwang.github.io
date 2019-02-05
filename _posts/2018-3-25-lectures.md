@@ -32,7 +32,7 @@ Due: n/a
 Week 3
 - 1/22 - [Emotional interaction](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5040416), [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423)   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 5* .  
-- 1/24 - [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5085313) . 
+- 1/24 - [Needfinding - persona tutorial](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5040423), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5085313) .   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 
@@ -52,7 +52,7 @@ Due: [Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.u
 
 Week 5
 - 2/5 - [Interface types]()   
-Reading: [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
+Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166386) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 - 2/7 - [Interface types cont.](),  [Design for Behavioral Change]()                                    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
@@ -78,7 +78,7 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/
 - [[Gaver et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104539) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
 - [[Fogg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104541) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) . 
 - [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104543) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
-- [[Følstad & Brandtzæg]](http://interactions.acm.org/archive/view/july-august-2017/chatbots-and-the-new-world-of-hci) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
+- [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166386) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")    
 
