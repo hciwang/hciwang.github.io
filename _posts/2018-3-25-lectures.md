@@ -51,11 +51,11 @@ Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/
 Due: [Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019    
 
 Week 5
-- 2/5 - [Interface types]()   
+- 2/5 - [Interface types](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5173151)   
 Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166386) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166441) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.   
 
-- 2/7 - [Interface types cont.](),  [Design for Behavioral Change]()                                    
+- 2/7 - [Interface types cont.](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5173151),  [Design for Behavioral Change]()                                    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
 
