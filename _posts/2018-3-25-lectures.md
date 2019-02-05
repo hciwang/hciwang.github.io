@@ -53,6 +53,8 @@ Due: [Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.u
 Week 5
 - 2/5 - [Interface types]()   
 Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166386) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
+Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166441) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.   
+
 - 2/7 - [Interface types cont.](),  [Design for Behavioral Change]()                                    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")   
@@ -79,6 +81,7 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/
 - [[Fogg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104541) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) . 
 - [[Orji et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5104543) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 - [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166386) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
+- [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166441) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.  
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")    
 
