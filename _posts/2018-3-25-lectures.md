@@ -93,4 +93,4 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
 - [[Progress report]]() due Mar 1 
-- [[Final report, in SIGCHI Extended Abstratc Format]]() duedate TBA
+- [[Final report, in SIGCHI Extended Abstract Format]]() duedate TBA
