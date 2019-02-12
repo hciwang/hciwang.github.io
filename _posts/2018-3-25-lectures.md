@@ -62,6 +62,13 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Out: [Assignment 2, Needfinding and persona](https://canvas.ucdavis.edu/courses/293005/assignments/292305) *Assignment 2 will be posted by Feb 5*   
 Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
 
+Week 6
+- 2/12 - [Prototyping, Part I]() , [Review for Midterm]()   
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
+- 2/14 -  [Prototyping, Studio]()                             
+Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.
+Due: [2nd batch paper commenting due Feb 17th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/272374)  
+
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -93,5 +100,6 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
-- [[Progress report]]() due Mar 1 
+- [[Progress report]]() due Mar 1  
+- [[Final oral presentation]]()  
 - [[Final report, in SIGCHI Extended Abstract Format]]() duedate TBA
