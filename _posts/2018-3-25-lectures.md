@@ -66,7 +66,7 @@ Week 6
 - 2/12 - [Prototyping, Part I]() , [Review for Midterm](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5234557)    
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 - 2/14 -  [Prototyping, Studio]()                             
-Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.
+Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
 Due: [2nd batch paper commenting due Feb 17th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/272374)  
 
 
