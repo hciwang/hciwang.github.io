@@ -91,7 +91,8 @@ Due: [2nd batch paper commenting due Feb 17th](https://canvas.ucdavis.edu/course
 - [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5166441) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.  
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons.  *Chapter 15* (make sure that you read about "Heuristic Evaluation")    
-
+- [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.    
+- [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.  
 
 
 #### Individual assignments
