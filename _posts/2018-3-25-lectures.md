@@ -70,7 +70,7 @@ Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.
 Due: [2nd batch paper commenting due Feb 17th](https://canvas.ucdavis.edu/courses/293005/discussion_topics/272374)  
 
 Week 7
-- 2/19 -  Midterm
+- 2/19 -  Midterm  
 - 2/21 - [Prototyping studio](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5259053)
 Reading: [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
