@@ -78,8 +78,14 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/293005/assignments/292305) due Feb 21st  
 
 Week 8
+- 2/19 -  [Video prototyping](), [Evaluation]() . 
+
+
+
 Week 9
+
 Week 10
+
 
 
 
