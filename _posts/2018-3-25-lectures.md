@@ -78,7 +78,7 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/293005/assignments/292305) due Feb 21st  
 
 Week 8
-- 2/19 -  [Video prototyping](), [Evaluation]() .   
+- 2/19 -  [Video prototyping](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359144), [Evaluation]() .   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons. Chapter 13 .   
 Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
