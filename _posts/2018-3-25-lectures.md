@@ -79,6 +79,8 @@ Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/cours
 
 Week 8
 - 2/19 -  [Video prototyping](), [Evaluation]() . 
+Reading: [[Preece, Sharp & Rogers]] Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons. Chapter 13 . 
+Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 
 
