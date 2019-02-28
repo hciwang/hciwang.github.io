@@ -78,13 +78,18 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/293005/assignments/292305) due Feb 21st  
 
 Week 8
-- 2/19 -  [Video prototyping](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359144), [Evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359172) .   
+- 2/26 -  [Video prototyping](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359144), [Evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359172) .   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons. Chapter 13 .   
 Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
+- 2/28 -  [Evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359172) .  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .  
+Reading:
+Reading: 
 
 
 Week 9
+- 3/5 -  
+- 3/7 - 
 
 Week 10
 
@@ -123,6 +128,7 @@ Week 10
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/293005/assignments/286899) due February 1st, 2019   
 - [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/293005/assignments/292305) due Feb 21st
+- [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/293005/assignments/298521) due Mar 14
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
