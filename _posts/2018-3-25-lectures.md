@@ -85,7 +85,7 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 - 2/28 -  [Evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359172) .  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .  
 Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5379851) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 Reading: 
-
+Due: [[Progress report]](https://canvas.ucdavis.edu/courses/293005/assignments/298525) due Mar 3
 
 Week 9
 - 3/5 -  
@@ -132,6 +132,6 @@ Week 10
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
-- [[Progress report]]() due Mar 1  
+- [[Progress report]](https://canvas.ucdavis.edu/courses/293005/assignments/298525) due Mar 3
 - [[Final oral presentation]]()  
 - [[Final report, in SIGCHI Extended Abstract Format]]() duedate TBA
