@@ -122,6 +122,8 @@ Week 10
 #### Batch 3 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/293005/discussion_topics/285017) due March 10)
 - [[Landay & Myers]](https://dl.acm.org/citation.cfm?id=223910) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 - [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 4th Ed. John Wiley & Sons. Chapter 13 .   
+- [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 - [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5379851) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.    
 
 
