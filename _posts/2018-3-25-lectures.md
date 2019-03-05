@@ -83,15 +83,19 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 - 2/28 -  [Evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5359172) .  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .  
-Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5379851) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.   
+Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5379851) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.    
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/293005/assignments/298525) due Mar 3
 
 Week 9
-- 3/5 -  
-- 3/7 - 
+- 3/5 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) . 
+Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+
+- 3/7 -  [Experimental design studio]() 
+Reading:   
+Reading:  
 
 Week 10
-
+- 3/12 - [Non-experimental evaluation]()
 
 
 
