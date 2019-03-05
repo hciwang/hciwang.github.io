@@ -87,11 +87,11 @@ Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/fold
 Due: [[Progress report]](https://canvas.ucdavis.edu/courses/293005/assignments/298525) due Mar 3
 
 Week 9
-- 3/5 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) . 
-Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+- 3/5 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .   
+Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 
-- 3/7 -  [Experimental design studio]() 
-Reading:   
+- 3/7 -  [Experimental design studio]()   
+Reading:     
 Reading:  
 
 Week 10
