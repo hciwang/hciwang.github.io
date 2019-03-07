@@ -90,7 +90,7 @@ Week 9
 - 3/5 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .   
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 
-- 3/7 -  [Experimental design studio]()   
+- 3/7 -  [Experimental design studio](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5436274)     
 Reading:     
 Reading:  
 
