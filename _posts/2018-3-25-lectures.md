@@ -91,7 +91,8 @@ Week 9
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 
 - 3/7 -  [Experimental design studio](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5436274)     
-Reading:     
+Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
+
 Reading:  
 
 Week 10
