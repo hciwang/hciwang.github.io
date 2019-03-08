@@ -90,10 +90,9 @@ Week 9
 - 3/5 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5379296) .   
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 
-- 3/7 -  [Experimental design studio](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5436274)     
+- 3/7 -  [Experimental design studio](https://canvas.ucdavis.edu/courses/293005/files/folder/Studio?preview=5436274)    
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
-
-Reading:  
+Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 Week 10
 - 3/12 - [Non-experimental evaluation]()
@@ -131,6 +130,8 @@ Week 10
 - [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 - [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/293005/files/folder/Reading?preview=5379851) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.    
 - [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
+- [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
+- [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 
 
