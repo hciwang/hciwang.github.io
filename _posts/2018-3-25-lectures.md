@@ -95,7 +95,7 @@ Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-
 Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 Week 10
-- 3/12 - [Non-experimental evaluation]()
+- 3/12 - [Non-experimental evaluation](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5488845), [Interview worksheet](https://canvas.ucdavis.edu/courses/293005/files/folder/Lecture?preview=5488853) . 
 
 
 
