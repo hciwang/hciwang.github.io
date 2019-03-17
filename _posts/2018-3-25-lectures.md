@@ -144,4 +144,4 @@ Week 10
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/293005/assignments/290490) due Feb 7
 - [[Progress report]](https://canvas.ucdavis.edu/courses/293005/assignments/298525) due Mar 3
 - [[Final oral presentation]]()  
-- [[Final report, in SIGCHI Extended Abstract Format]]() duedate TBA
+- [[Final report, in SIGCHI Extended Abstract Format]](https://canvas.ucdavis.edu/courses/293005/assignments/302026) due Mar 22
