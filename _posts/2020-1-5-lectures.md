@@ -50,7 +50,7 @@ Due: n/a
 
 
 #### Group project
-- [[Project proposal]]() due Feb 7
-- [[Progress report]]() due Mar 3
+- [[Project proposal]]() due Feb 2
+- [[Progress report]]() due Mar 1
 - [[Final oral presentation]]()  
-- [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 22
+- [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
