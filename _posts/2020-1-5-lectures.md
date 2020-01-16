@@ -18,10 +18,10 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 [2] This book is one of the textbooks, and can be purchased at the university bookstore.
 
 Week 2
-- 1/14 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7529812), [Cognitive foundation](), [Design Thinking Tutorial by TA](), [HCI Problem Framing Tutorial by TA]()     
+- 1/14 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7529812)     
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*    
 
-- 1/16 - [Cognitive foundation cont.]()    
+- 1/16 - [Cognitive foundation](), [Design Thinking Tutorial by TA]()
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*     
 Reading: [[Carroll]]() Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
