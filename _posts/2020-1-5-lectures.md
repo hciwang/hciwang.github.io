@@ -23,9 +23,9 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 
 - 1/16 - [Cognitive foundation](), [Design Thinking Tutorial by TA]()
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*     
-Reading: [[Carroll]]() Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
+Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7584433) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
-Out: [Assignment 1: Conceptualizing Human Computer Interaction, due Jan 30th]()  
+Out: [Assignment 1: Conceptualizing Human Computer Interaction, due Jan 31](https://canvas.ucdavis.edu/courses/413583/assignments/423189)  
 Due: n/a
 
 
@@ -41,12 +41,12 @@ Due: n/a
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. *Chapter 1*  
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*   
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*   
-- [[Carroll]]() Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
+- [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7584433) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
 
 
 
 #### Individual assignments
-- [[Assignment 1: Conceptualizing Human Computer Interaction]]() due Jan 30, 2020 
+- [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/413583/assignments/423189) due Jan 31, 2020 
 
 
 #### Group project
