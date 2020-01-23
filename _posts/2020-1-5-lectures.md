@@ -21,7 +21,7 @@ Week 2
 - 1/14 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7529812)     
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*    
 
-- 1/16 - [Cognitive foundation](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]](https://canvas.ucdavis.edu/courses/413583/files/folder/Discussion?preview=7586722) .   
+- 1/16 - [[Cognitive foundation]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]](https://canvas.ucdavis.edu/courses/413583/files/folder/Discussion?preview=7586722) .   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*     
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7584433) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
@@ -30,10 +30,10 @@ Due: n/a
 
 
 Week 3
-- 1/21 - [Cognitive foundation, cont.](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [Emotional interaction](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7630014)    
+- 1/21 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [[Emotional interaction]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7630014)    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
 
-- 1/23 - [Needfinding - persona tutorial](), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal]()   
+- 1/23 - [[Needfinding - persona tutorial]](), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [[Instructor's note about project proposal]]()   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 
