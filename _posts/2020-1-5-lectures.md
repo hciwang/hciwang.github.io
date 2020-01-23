@@ -52,6 +52,9 @@ Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. 
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .   
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
+#### Batch 2
+
+#### Batch 3
 
 
 #### Individual assignments
