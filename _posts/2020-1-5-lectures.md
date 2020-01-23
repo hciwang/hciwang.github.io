@@ -30,7 +30,7 @@ Due: n/a
 
 
 Week 3
-- 1/21 - [Cognitive foundation, cont.](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [Emotional interaction]()    
+- 1/21 - [Cognitive foundation, cont.](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7584449), [Emotional interaction](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7630014)    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
 
 - 1/23 - [Needfinding - persona tutorial](), [Persona template](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [Instructor's note about project proposal]()   
