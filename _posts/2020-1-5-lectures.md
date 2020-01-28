@@ -47,7 +47,8 @@ Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679622) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
 Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679621) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
-
+Due: [[Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/413583/assignments/423189) due Jan 31, 2020   
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2  
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -75,7 +76,7 @@ Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/
 
 
 #### Group project
-- [[Project proposal]]() due Feb 2
+- [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2
 - [[Progress report]]() due Mar 1
 - [[Final oral presentation]]()  
 - [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
