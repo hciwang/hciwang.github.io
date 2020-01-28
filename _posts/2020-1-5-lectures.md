@@ -36,6 +36,16 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 1/23 - [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7635631), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/),  [[Instructor's note about project proposal]](https://canvas.ucdavis.edu/courses/413583/files/?preview=7635610)   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
+Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/413583/discussion_topics/401711)  
+
+
+Week 4
+- 1/28 - [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7635631), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/), [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7630014)  
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679623) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+
+- 1/30 - 
+Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679622) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
+Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679621) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 
 
@@ -52,7 +62,10 @@ Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. 
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .   
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
-#### Batch 2
+#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/413583/discussion_topics/410685) due Feb 13)
+- [[Gaver et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679623) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.  
+- [[Fogg]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679622) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .  
+- [[Orji et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679621) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
 
 #### Batch 3
 
