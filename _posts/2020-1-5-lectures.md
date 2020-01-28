@@ -43,7 +43,7 @@ Week 4
 - 1/28 - [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7635631), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/), [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7630014)  
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679623) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
-- 1/30 -   
+- 1/30 -  [[Interface types]]()  
 Reading: [[Fogg]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679622) Fogg, BJ. 1998. Persuasive Computers: Perspectives and Research Directions. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI) .    
 Reading: [[Orji et al.]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7679621) Orji, R., Nacke, L., Macro, C. 2017. Towards Personality-driven Persuasive Health  Games and Gamified Systems. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
@@ -73,6 +73,8 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/413583/assignments/423189) due Jan 31, 2020 
+- Assignment 2
+- Assignment 3
 
 
 #### Group project
