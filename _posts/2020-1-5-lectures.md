@@ -60,7 +60,7 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/413583/files/folde
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
 
-Out: [Assignment 2, Needfinding and persona]() *Assignment 2 will be posted by Feb 6* 
+Out: [Assignment 2, Needfinding and persona]() *Assignment 2 will be posted by Feb 8* (Assignment 2 will be posted on Feb 8)
 
 ### Assignments, readings and deliverables at a glance:
 
