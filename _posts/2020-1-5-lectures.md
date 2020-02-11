@@ -62,6 +62,14 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 
 Out: [Assignment 2, Needfinding and persona](https://canvas.ucdavis.edu/courses/413583/assignments/429555) *Assignment 2 will be posted by Feb 9*
 
+Week 6
+- 2/11 -  [[Review for Midterm]]()    
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
+- 2/13 -  [[Prototyping]]()                      
+Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
+
+Due: Paper Commenting Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/413583/discussion_topics/410685) due Feb 13
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
