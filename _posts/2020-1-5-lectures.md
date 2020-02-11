@@ -63,9 +63,10 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Out: [Assignment 2, Needfinding and persona](https://canvas.ucdavis.edu/courses/413583/assignments/429555) *Assignment 2 will be posted by Feb 9*
 
 Week 6
-- 2/11 -  [[Review for Midterm]]()    
+- 2/11 -   [[Data Gathering - Basics of Qualitative Data Collection]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7824092)    
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
-- 2/13 -  [[Prototyping]]()                      
+- 2/13 -  [[Review for Midterm]]()                        
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
 
 Due: Paper Commenting Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/413583/discussion_topics/410685) due Feb 13
