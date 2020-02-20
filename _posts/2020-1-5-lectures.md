@@ -75,7 +75,7 @@ Due: Paper Commenting Batch 2 (commenting on the [discussion thread](https://can
 Week 7
 - 2/18 -  Midterm  
 
-- 2/20 - [[Data Gathering - Basics of Qualitative Data Collection]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7824092) , [[Prototyping Interactions]]()     
+- 2/20 - [[Data Gathering - Basics of Qualitative Data Collection]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7824092) , [[Prototyping Interactions]](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7915432)     
 Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7905730) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
 Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport.grevet.pdf)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
