@@ -81,6 +81,13 @@ Reading: [[Grevet & Gilbert]](http://comp.social.gatech.edu/papers/chi15.airport
 
 Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/413583/assignments/429555) due Feb 23
 
+Week 8
+- 2/24 - 
+
+- 2/26 - 
+
+Out: [[Assignment 3, Redesigning IoT]]() *Assignment 3 will be posted by Feb 27*
+
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -115,11 +122,11 @@ Due:  [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/cours
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/413583/assignments/423189) due Jan 31, 2020 
 - [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/413583/assignments/429555) due Feb 23, 2020
-- Assignment 3
+- [[Assignment 3, Redesigning IoT]]() *Assignment 3 will be posted by Feb 27*
 
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2
-- [[Progress report]]() due Mar 1
+- [[Progress report]](https://canvas.ucdavis.edu/courses/413583/assignments/433627) due Mar 1
 - [[Final oral presentation]]()  
 - [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
