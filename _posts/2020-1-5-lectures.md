@@ -86,7 +86,7 @@ Week 8
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction .  
 Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
-- 2/27 -   [Video prototyping](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994261), [Evaluation](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994266) . 
+- 2/27 -   [Video prototyping](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994261), [Evaluation](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994266) .   
 Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7957623) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206. 
 
 Out: [[Assignment 3, Redesigning IoT]]() *Assignment 3 will be posted by Feb 27*
