@@ -89,7 +89,7 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 - 2/27 -   [Video prototyping](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994261), [Evaluation](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=7994266) .   
 Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7957623) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206. 
 
-Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583/assignments/435504) *Assignment 3 will be posted by Feb 27*
+Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583/assignments/435538) *Assignment 3 will be posted by Feb 27*
 
 
 ### Assignments, readings and deliverables at a glance:
@@ -128,7 +128,7 @@ Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/413583/assignments/423189) due Jan 31, 2020 
 - [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/413583/assignments/429555) due Feb 23, 2020
-- [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583/assignments/435504) *Assignment 3 will be posted by Feb 27*
+- [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583/assignments/435538) *Assignment 3 will be posted by Feb 27*
 
 
 #### Group project
