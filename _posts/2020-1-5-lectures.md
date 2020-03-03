@@ -92,12 +92,12 @@ Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/413583/files/fold
 Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/413583/assignments/435538) *Assignment 3 will be posted by Feb 27*
 
 Week 9
-- 3/3 -  [Quantitative evaluation, controlled experiment]() .   
+- 3/3 -  [Quantitative evaluation, controlled experiment](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=8027685) . [Experimental design worksheet](https://canvas.ucdavis.edu/courses/413583/files/folder/Lectures?preview=8027690)   
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
 
 
-- 3/5 -  [Experimental design studio]()    
+- 3/5 -    
 Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 
