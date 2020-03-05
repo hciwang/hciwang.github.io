@@ -147,5 +147,5 @@ Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.ed
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2
 - [[Progress report]](https://canvas.ucdavis.edu/courses/413583/assignments/433627) due Mar 1
-- [[Final oral presentation]]()  
-- [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
+- [[Final Demo]](), See TA announcement, Mar 13, 16-17
+- [[Final report, in SIGCHI Extended Abstract Format]](https://canvas.ucdavis.edu/courses/413583/assignments/437577) due Mar 18
