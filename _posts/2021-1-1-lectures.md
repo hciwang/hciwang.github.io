@@ -6,7 +6,7 @@ permalink: /lectures/
 
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
-- 1/5 - [[Course structure and requirements]]( ), [[What is Human Computer Interaction design]]( )  
+- 1/5 - [[Course structure and requirements]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11228808), [[What is Human Computer Interaction design]]( )  
 Reading:  [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/beinghumana3-1.pdf) Being Human. HCI in the Year 2020. Microsoft.
 
 - 1/7 - [[What is Human Computer Interaction design]]( ), [[Conceptualizing interaction design]]( )
