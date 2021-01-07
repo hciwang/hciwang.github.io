@@ -9,7 +9,7 @@ Week 1
 - 1/5 - [[Course structure and requirements]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11228808), [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11228961)  
 Reading:  [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/beinghumana3-1.pdf) Being Human. HCI in the Year 2020. Microsoft.
 
-- 1/7 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11228961), [[Conceptualizing interaction design]]( ). 
+- 1/7 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11228961), [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11252254). 
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 1* [1]   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
 
