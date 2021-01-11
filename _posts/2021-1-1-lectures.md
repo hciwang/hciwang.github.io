@@ -13,14 +13,14 @@ Reading:  [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/pr
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 1* [1]   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
 
-- 1/8 - [[TA: Discusssion Session- Overview]]( ) .   
+- 1/8 - [[TA: Discusssion Session- Overview]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11291990) .   
 
 
 [1] This book is one of the textbooks, and can be purchased at the university bookstore.  
 [2] This book is one of the textbooks, and can be purchased at the university bookstore.
 
 Week 2
-- 1/12 - [[Conceptualizing interaction design]]( )     
+- 1/12 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11252254)     
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*    
 
 - 1/14 - [[Cognitive foundation]]( ).   
