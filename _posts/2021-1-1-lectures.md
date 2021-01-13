@@ -30,8 +30,8 @@ Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Read
 - 1/15 - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]] .   
 
 
-Out: [Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]
-Due: [Final Project Team Formation, due Jan 17 to TA](https://canvas.ucdavis.edu/courses/539971/assignments/626619)
+Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]]().  
+Due: [[Final Project Team Formation, due Jan 17 to TA]](https://canvas.ucdavis.edu/courses/539971/assignments/626619)
 
 
 Week 3
