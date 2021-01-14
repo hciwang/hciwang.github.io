@@ -23,9 +23,9 @@ Week 2
 - 1/12 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11252254)     
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*    
 
-- 1/14 - [[Cognitive foundation]]( ).   
+- 1/14 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11252254),  [[Cognitive foundation]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11331329).   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*      
-Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7584433) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
+Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11331348) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
 - 1/15 - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]] .   
 
@@ -64,7 +64,7 @@ Week 10
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. *Chapter 1*  
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*   
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*   
-- [[Carroll]](https://canvas.ucdavis.edu/courses/413583/files/folder/Readings?preview=7584433) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
+- [[Carroll]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11331348) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
 
 
 #### Batch 2 (commenting on the [discussion thread]() due Feb 11)
