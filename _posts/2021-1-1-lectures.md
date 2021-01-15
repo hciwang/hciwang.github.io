@@ -27,7 +27,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*      
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11331348) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
-- 1/15 - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]] .   
+- 1/15 - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11347468) .   
 
 
 Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]](https://canvas.ucdavis.edu/courses/539971/assignments/627432).  
