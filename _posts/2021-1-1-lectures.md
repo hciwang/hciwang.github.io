@@ -30,7 +30,7 @@ Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/539971/files/folder/Read
 - 1/15 - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]] .   
 
 
-Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]]().  
+Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]](https://canvas.ucdavis.edu/courses/539971/assignments/627432).  
 Due: [[Final Project Team Formation, due Jan 17 to TA]](https://canvas.ucdavis.edu/courses/539971/assignments/626619)
 
 
@@ -74,7 +74,7 @@ Week 10
 
 
 #### Individual assignments
-- [[Assignment 1: Conceptualizing Human Computer Interaction]]( ) due Jan 28, 2021 
+- [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28, 2021 
 - [[Assignment 2, Needfinding and persona]]( )
 - [[Assignment 3,]]( )  
 
