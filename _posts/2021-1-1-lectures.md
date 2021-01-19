@@ -35,6 +35,14 @@ Due: [[Final Project Team Formation, due Jan 17 to TA]](https://canvas.ucdavis.e
 
 
 Week 3
+- 1/19 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11331329), [[Instructor's note about project proposal]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11391685)   
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
+
+- 1/21 - [[Emotional interaction]](), [[Needfinding - persona tutorial]](), [[Persona template]](), [[Sample projects from previous years]]()  
+Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+
+- 1/22 - [[Discussion Session: Needfinding activity led by TA]()
+Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/539971/discussion_topics/641753)  
 
 
 Week 4
@@ -65,6 +73,8 @@ Week 10
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*   
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*   
 - [[Carroll]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11331348) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
+- [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 
 #### Batch 2 (commenting on the [discussion thread]() due Feb 11)
