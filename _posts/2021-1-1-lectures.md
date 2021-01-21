@@ -38,10 +38,10 @@ Week 3
 - 1/19 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11331329), [[Instructor's note about project proposal]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11391685)   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
 
-- 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11331329), [[Needfinding - persona tutorial]](), [[Persona template]]().   
+- 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11331329), [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11427316), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/).   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
-- 1/22 - [[Discussion Session: Needfinding activity led by TA]().  
+- 1/22 - [[Discussion Session: Needfinding activity led by TA](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11427248).  
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/539971/discussion_topics/641753)  
 
 
