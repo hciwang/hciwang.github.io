@@ -46,7 +46,16 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 
 
 Week 4
-- 1/26 -  [[Emotional interaction]](), [[Sample projects from previous years]]()  
+- 1/26 - [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11427316), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/), [[Sample projects from previous years]](), [[Emotional interaction]]()
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11505810) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+
+- 1/28 - [[Emotional interaction cont.]]( ), [[Discussion Session by TA: Needfinding, Brainstorming, Project Examples]](https://canvas.ucdavis.edu/courses/413583/files/folder/Discussion?preview=7720909)    
+Reading:   
+  
+- 1/29 - [[Discussion Session: Brainstorming activity led by TA]().  
+Due: [[Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28. 
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2. 
+
 
 Week 5
 
@@ -76,8 +85,9 @@ Week 10
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
+#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/539971/discussion_topics/659911) due Feb 11)
 
-#### Batch 2 (commenting on the [discussion thread]() due Feb 11)
+- [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11505810) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
 #### Batch 3 (commenting on the [discussion thread]() due Mar 4)
 
@@ -89,7 +99,7 @@ Week 10
 - [[Assignment 3,]]( )  
 
 #### Group project
-- [[Project proposal]]() due Jan 31, 2021
+- [[Project proposal]]() due Feb 2, 2021
 - [[Progress report]]() due Feb 28
 - [[Final Demo]](), See TA announcement, Mar 11, 12, 16
 - [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
