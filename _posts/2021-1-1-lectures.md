@@ -53,8 +53,8 @@ Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder
 Reading:   
   
 - 1/29 - [[Discussion Session: Brainstorming activity led by TA]().  
-Due: [[Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28. 
-Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2. 
+Due: [[Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28.   
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2.  
 
 
 Week 5
