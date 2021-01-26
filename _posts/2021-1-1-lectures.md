@@ -54,7 +54,7 @@ Reading:
   
 - 1/29 - [[Discussion Session: Brainstorming activity led by TA]().  
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28.   
-Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/413583/assignments/424864) due Feb 2.  
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) due Feb 2.  
 
 
 Week 5
@@ -99,7 +99,7 @@ Week 10
 - [[Assignment 3,]]( )  
 
 #### Group project
-- [[Project proposal]]() due Feb 2, 2021
+- [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) due Feb 2, 2021
 - [[Progress report]]() due Feb 28
 - [[Final Demo]](), See TA announcement, Mar 11, 12, 16
 - [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
