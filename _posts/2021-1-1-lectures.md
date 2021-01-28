@@ -92,17 +92,17 @@ Week 10
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4* 
 - [[Andelson]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11537271) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
 
-#### Batch 3 (commenting on the [discussion thread]() due Mar 4)
+#### Batch 3 (commenting on the [discussion thread] due Mar 4)
 
 
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28, 2021 
-- [[Assignment 2, Needfinding and persona]]( )
-- [[Assignment 3,]]( )  
+- [[Assignment 2, Needfinding and persona]]
+- [[Assignment 3,]]
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) due Feb 2, 2021
-- [[Progress report]]() due Feb 28
-- [[Final Demo]](), See TA announcement, Mar 11, 12, 16
-- [[Final report, in SIGCHI Extended Abstract Format]]() due Mar 18
+- [[Progress report]] due Feb 28
+- [[Final Demo]], See TA announcement, Mar 11, 12, 16
+- [[Final report, in SIGCHI Extended Abstract Format]] due Mar 18
