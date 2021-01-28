@@ -49,7 +49,7 @@ Week 4
 - 1/26 - [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11427316), [[Persona discussion activity]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11507571), [[Persona template]](https://asinthecity.com/2011/05/13/explaining-personas-used-in-ux-design-%E2%80%93-part-2/), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11506090).  
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11505810) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
-- 1/28 - [[Emotional interaction]]( ).   
+- 1/28 - [[Emotional interaction]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11539230).   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11537271) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
   
