@@ -54,8 +54,8 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11537271) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
   
 - 1/29 - [[Discussion Session: Brainstorming activity led by TA]().  
-Due: [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Jan 29.   
-Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) due Feb 2.  
+Due: [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Feb 2.   
+Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) extended to Feb 5.  
 
 
 Week 5
@@ -97,12 +97,12 @@ Week 10
 
 
 #### Individual assignments
-- [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) due Jan 28, 2021 
+- [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Feb 2, 2021 
 - [[Assignment 2, Needfinding and persona]]
 - [[Assignment 3,]]
 
 #### Group project
-- [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) due Feb 2, 2021
+- [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) extended to Feb 5, 2021
 - [[Progress report]] due Feb 28
 - [[Final Demo]], See TA announcement, Mar 11, 12, 16
 - [[Final report, in SIGCHI Extended Abstract Format]] due Mar 18
