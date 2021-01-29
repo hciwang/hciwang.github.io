@@ -53,7 +53,7 @@ Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11537271) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
   
-- 1/29 - [[Discussion Session: Brainstorming activity led by TA]().  
+- 1/29 - [[Discussion Session: Brainstorming activity led by TA]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11551354).  
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Feb 2.   
 Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) extended to Feb 5.  
 
