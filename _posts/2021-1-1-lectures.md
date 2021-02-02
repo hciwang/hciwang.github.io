@@ -59,6 +59,17 @@ Due: [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/
 
 
 Week 5
+- 2/2 - [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11539230), [[Interface types]]   
+Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11609759) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
+Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11609764) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.   
+
+- 2/4 -  [[Interface types cont.]]                                   
+Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
+
+- 2/5 - [[Discussion Session: Structured Brainstorming activity led by TA]]
+
+Out: [Assignment 2, Needfinding and persona] *Assignment 2 will be posted by Feb 5*
 
 
 Week 6
