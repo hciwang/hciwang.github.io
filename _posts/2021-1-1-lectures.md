@@ -67,7 +67,7 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/539971/files/folde
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
 
-- 2/5 - [[Discussion Session: Structured Brainstorming activity led by TA]]
+- 2/5 - [[Discussion Session: Structured Brainstorming activity led by TA]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11664194). 
 
 Out: [Assignment 2, Needfinding and persona] *Assignment 2 will be posted by Feb 5*
 
