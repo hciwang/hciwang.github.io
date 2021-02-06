@@ -69,8 +69,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 
 - 2/5 - [[Discussion Session: Structured Brainstorming activity led by TA]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11664194). 
 
-Out: [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/539971/assignments/637089) *Assignment 2 will be posted by Feb 5*
-
+Out: [[Assignment 2, Needfinding and persona, due Feb 21]](https://canvas.ucdavis.edu/courses/539971/assignments/637089). 
 
 Week 6
 
