@@ -69,7 +69,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 
 - 2/5 - [[Discussion Session: Structured Brainstorming activity led by TA]](https://canvas.ucdavis.edu/courses/539971/files/folder/Discussion?preview=11664194). 
 
-Out: [[Assignment 2, Needfinding and persona, due Feb 21]](https://canvas.ucdavis.edu/courses/539971/assignments/637089). 
+Out: [[Assignment 2, Needfinding and persona, due Feb 21]](https://canvas.ucdavis.edu/courses/539971/assignments/637449). 
 
 Week 6
 
@@ -113,7 +113,7 @@ Week 10
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Feb 2, 2021 
-- [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/539971/assignments/637089) due Feb 21
+- [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/539971/assignments/637449) due Feb 21
 - [[Assignment 3,]]
 
 #### Group project
