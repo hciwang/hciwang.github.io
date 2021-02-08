@@ -73,9 +73,9 @@ Out: [[Assignment 2, Needfinding and persona, due Feb 21]](https://canvas.ucdavi
 
 
 Week 6
-- 2/9 -    [[Interface types cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11616537), [[Data Gathering - Basics of Qualitative Data Collection]]
-Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*    
-Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping. 
+- 2/9 -    [[Interface types cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11616537), [[Data Gathering - Basics of Qualitative Data Collection]].  
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.       
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.   
 
 - 2/11 -  [[Review for Midterm]].         
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
