@@ -73,7 +73,7 @@ Out: [[Assignment 2, Needfinding and persona, due Feb 21]](https://canvas.ucdavi
 
 
 Week 6
-- 2/9 -    [[Interface types cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11616537), [[Data Gathering - Basics of Qualitative Data Collection]].  
+- 2/9 -    [[Interface types cont.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11739208), [[Data Gathering - Basics of Qualitative Data Collection]].  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.       
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.   
 
