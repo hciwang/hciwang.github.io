@@ -83,7 +83,9 @@ Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.
 Due: Paper Commenting Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/539971/discussion_topics/659911) now due Feb 14
 
 Week 7
-- Midterm  
+- 2/16 - [[Midterm]](https://canvas.ucdavis.edu/courses/539971/assignments/640929).  
+
+- 2/18
 
 Week 8
 
