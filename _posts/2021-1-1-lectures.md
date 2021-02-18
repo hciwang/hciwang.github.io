@@ -91,6 +91,8 @@ Reading: [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/539971/files/fo
 
 - 2/19 - [[Discussion Session: Prototyping practicum tutorial by TA]]
 
+Due: [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/539971/assignments/637449) due Feb 21
+
 Week 8
 
 Week 9
