@@ -85,7 +85,9 @@ Due: Paper Commenting Batch 2 (commenting on the [discussion thread](https://can
 Week 7
 - 2/16 - [[Midterm]](https://canvas.ucdavis.edu/courses/539971/assignments/640929).  
 
-- 2/18
+- 2/18 - [[Prototyping Interactions]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11882076)     
+Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11882099) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
+Reading: [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11882097&sort=modified_at&order=desc)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).    
 
 Week 8
 
