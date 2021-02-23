@@ -102,7 +102,7 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 - 2/25 -   [Video prototyping], [Evaluation].   
 Reading: [[Ruiz, Li, Lank]] Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206. 
 
-Out: [[Assignment 3, Redesigning IoT]]( ) *Assignment 3 will be posted by Feb 26*
+Out: [[Assignment 3, Redesigning IoT]] *Assignment 3 will be posted by Feb 26*
 
 Week 9
 
