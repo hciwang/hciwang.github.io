@@ -151,6 +151,6 @@ Week 10
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) extended to Feb 5, 2021
-- [[Progress report]] due Feb 28
+- [[Progress report]](https://canvas.ucdavis.edu/courses/539971/assignments/644045) due Mar 2
 - [[Final Demo]], See TA announcement, Mar 11, 12, 16
 - [[Final report, in SIGCHI Extended Abstract Format]] due Mar 18
