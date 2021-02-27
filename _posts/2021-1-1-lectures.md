@@ -102,7 +102,7 @@ Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscr
 - 2/25 - [[Video prototyping]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11992994).   
 Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11986399) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 
-Out: [[Assignment 3, Redesigning IoT]] *Assignment 3 will be posted by Feb 26*
+Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/539971/assignments/644046) due Mar 7.  
 
 Week 9
 
@@ -147,7 +147,8 @@ Week 10
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction]](https://canvas.ucdavis.edu/courses/539971/assignments/627432) extended to Feb 2, 2021 
 - [[Assignment 2, Needfinding and persona]](https://canvas.ucdavis.edu/courses/539971/assignments/637449) due Feb 21
-- [[Assignment 3,]]
+- [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/539971/assignments/644046) due Mar 7.  
+
 
 #### Group project
 - [[Project proposal]](https://canvas.ucdavis.edu/courses/539971/assignments/628915) extended to Feb 5, 2021
