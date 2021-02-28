@@ -151,6 +151,7 @@ Week 10
 - [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11986399) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 - [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 - [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.  
+-  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 
 #### Individual assignments
