@@ -105,12 +105,12 @@ Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/539971/files/fold
 Out: [[Assignment 3, Redesigning IoT]](https://canvas.ucdavis.edu/courses/539971/assignments/644046) due Mar 7.  
 
 Week 9
-- 3/2 -  [Quantitative evaluation, controlled experiment] . [Experimental design worksheet](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12039191)   
+- 3/2 -  [General qualitative evaluation](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12065855) . [Interview worksheet](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12065857).  
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
 
 
-- 3/4 -   [Non-experimental evaluation]  . [Interview worksheet] .   
+- 3/4 -   [Experimental evaluation]  . .   [Experimental design worksheet](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12039191)   
 Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 Week 10
