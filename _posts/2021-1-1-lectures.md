@@ -110,7 +110,7 @@ Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyc
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.   
 
 
-- 3/4 -   [Experimental evaluation]  . .   [Experimental design worksheet](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12039191)   
+- 3/4 -   [Experimental evaluation](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12065852).   [Experimental design worksheet](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=12039191)   
 Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 Week 10
