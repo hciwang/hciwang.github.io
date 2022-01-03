@@ -9,7 +9,7 @@ Week 1
 - 1/3 - [[Course structure and requirements]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218366), [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218365)  
 Reading:  [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/beinghumana3-1.pdf) Being Human. HCI in the Year 2020. Microsoft.
 
-- 1/5 - [[What is Human Computer Interaction design]](), [[Conceptualizing interaction design]]().  
+- 1/5 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218365), [[Conceptualizing interaction design]]().  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 1* [1]   
 
 - 1/5 Discussion - [[TA: Discusssion Session- Overview]]() .
