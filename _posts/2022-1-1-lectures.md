@@ -50,7 +50,7 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
-#### Batch 1 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/539971/discussion_topics/641753) due Jan 22nd)
+#### Batch 1 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174) due Jan 22nd)
 - [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/beinghumana3-1.pdf) Being Human. HCI in the Year 2020. Microsoft. *Choose any 10 pages from the booklet to read for paper commenting*. 
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 1*
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. *Chapter 1*  
