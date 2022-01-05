@@ -12,7 +12,7 @@ Reading:  [[Harpert et al.]](https://www.microsoft.com/en-us/research/uploads/pr
 - 1/5 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218365), [[Conceptualizing interaction design]]().  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 1* [1]   
 
-- 1/5 Discussion - [[TA: Discusssion Session- Overview]]() .
+- 1/5 Discussion - [[TA: Discusssion Session- Overview and Q&A]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15240768) .
 
 - 1/7 - 
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 1* [2]  
