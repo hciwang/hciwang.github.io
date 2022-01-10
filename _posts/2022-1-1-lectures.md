@@ -22,7 +22,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 
 
 Week 2
-- 1/10 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803)
+- 1/10 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803). 
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*         
 
 
