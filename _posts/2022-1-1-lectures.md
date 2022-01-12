@@ -39,11 +39,11 @@ Due: [[Final Project Team Formation]]
 Week 3
 - 1/17 (Holiday)
 
-- 1/19 - [[Cognitive foundation, cont.]](), [[Instructor's note about project proposal]]()   .  
+- 1/19 - [[Cognitive foundation, cont.]], [[Instructor's note about project proposal]].  
 
-- 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA]().  
+- 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA].  
 
-- 1/21 -  [[Cognitive foundation, cont.]](), [[Needfinding - persona tutorial]](), [[Persona template]]().   
+- 1/21 -  [[Cognitive foundation, cont.]], [[Needfinding - persona tutorial]], [[Persona template]].   
 
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
@@ -63,9 +63,9 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 
 
 #### Individual assignments
-- [[Assignment 1: Conceptualizing Human Computer Interaction]]() 
+- [[Assignment 1: Conceptualizing Human Computer Interaction]] 
 
 
 #### Group project
-- [[Project proposal]]() 
-- [[Progress report]]()
+- [[Project proposal]] 
+- [[Progress report]]
