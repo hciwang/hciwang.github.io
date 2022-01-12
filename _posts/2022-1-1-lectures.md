@@ -25,15 +25,15 @@ Week 2
 - 1/10 - [[Conceptualizing interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803).   
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*         
 
-- 1/12 - [[Conceptualizing interaction design] (https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803),  [[Cognitive foundation]]().  
+- 1/12 - [[Conceptualizing interaction design](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803),  [[Cognitive foundation]].  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*      
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15312695) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
 
 - 1/12 Discussion - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15295640) .   
 
 - 1/14 - 
-Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]]().  
-Due: [[Final Project Team Formation, due Jan 17 to TA]]()
+Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]].  
+Due: [[Final Project Team Formation]]
 
 
 Week 3
