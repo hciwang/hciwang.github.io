@@ -32,7 +32,7 @@ Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc
 - 1/12 Discussion - [[Discussion Session: Design Thinking and Problem Framing Tutorial by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15295640) .   
 
 - 1/14 - [[Conceptualizing interaction design](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15244803),  [[Cognitive foundation]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336).   
-Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Jan 28]].  
+Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).    
 Due: [[Final Project Team Formation]]
 
 
@@ -63,7 +63,7 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 
 
 #### Individual assignments
-- [[Assignment 1: Conceptualizing Human Computer Interaction]] 
+- [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).  
 
 
 #### Group project
