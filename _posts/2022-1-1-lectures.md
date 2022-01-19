@@ -39,12 +39,12 @@ Due: [[Final Project Team Formation]]
 Week 3
 - 1/17 (Holiday)
 
-- 1/19 - [[Cognitive foundation, cont.]]((https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Instructor's note about project proposal]].   
+- 1/19 - [[Cognitive foundation]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Instructor's note about project proposal]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15405416).   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
 
-- 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15392515)  
+- 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15392515)  
 
-- 1/21 -  [[Cognitive foundation, cont.]], [[Needfinding - persona tutorial]], [[Persona template]].  
+- 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Needfinding - persona tutorial]], [[Persona template]].  
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
