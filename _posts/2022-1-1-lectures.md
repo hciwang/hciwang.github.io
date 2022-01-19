@@ -44,8 +44,8 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 
 - 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15392515)  
 
-- 1/21 -  [[Cognitive foundation, cont.]], [[Needfinding - persona tutorial]], [[Persona template]].   
-- Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+- 1/21 -  [[Cognitive foundation, cont.]], [[Needfinding - persona tutorial]], [[Persona template]].  
+Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
@@ -60,7 +60,10 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. *Chapter 1*  
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 2*    
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. *Chapter 3*      
-- Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15312695) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
+- [[Carroll]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15312695) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.      
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
+- [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
+
 
 
 
