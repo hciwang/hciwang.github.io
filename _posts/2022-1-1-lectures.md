@@ -39,7 +39,7 @@ Due: [[Final Project Team Formation]]
 Week 3
 - 1/17 (Holiday)
 
-- 1/19 - [[Cognitive foundation, cont.]]((https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Instructor's note about project proposal]]. 
+- 1/19 - [[Cognitive foundation, cont.]]((https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Instructor's note about project proposal]].   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
 
 - 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15392515)  
