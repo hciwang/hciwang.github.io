@@ -47,6 +47,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Needfinding - persona tutorial]], [[Persona template]].  
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
+Out: [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
 
@@ -72,5 +73,5 @@ Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/course
 
 
 #### Group project
-- [[Project proposal]] 
+- [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
 - [[Progress report]]
