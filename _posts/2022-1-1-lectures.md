@@ -44,7 +44,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 
 - 1/19 Discussion - [[Discussion Session: Needfinding activity led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15392515)  
 
-- 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Needfinding - persona tutorial]], [[Persona template]](https://www.interaction-design.org/literature/topics/personas).   
+- 1/21 -  [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Needfinding - persona tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15441255), [[Persona template]](https://www.interaction-design.org/literature/topics/personas).   
 Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
 Out: [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
