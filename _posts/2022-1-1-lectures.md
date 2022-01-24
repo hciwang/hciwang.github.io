@@ -50,7 +50,17 @@ Reading: [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. 
 Out: [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
+Week 4
+- 1/24 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11506090).  
+-Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11505810) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
+- 1/26 - 
+- 1/26 Discussion - 
+- 1/28 - 
+
+Week 5
+
+Week 6
 
 ### Assignments, readings and deliverables at a glance:
 
