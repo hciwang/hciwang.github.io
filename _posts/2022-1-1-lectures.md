@@ -51,10 +51,12 @@ Out: [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
 Week 4
-- 1/24 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11506090).  
--Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/539971/files/folder/Readings%20(incomplete.%20check%20main%20website%20for%20complete%20readings)?preview=11505810) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+- 1/24 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Sample projects from previous years]]().  
+- Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15474362) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
-- 1/26 - 
+- 1/26 - [[Emotional interaction]]. 
+- Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*. 
+
 - 1/26 Discussion - 
 - 1/28 - 
 
@@ -75,7 +77,9 @@ Week 6
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
-
+#### Batch 2 (commenting on the [discussion thread for Batch 2 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948) due Feb 13)
+- [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15474362) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*. 
 
 
 #### Individual assignments
