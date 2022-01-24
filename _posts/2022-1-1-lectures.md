@@ -51,7 +51,7 @@ Out: [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633
 Due: [[Paper commenting for Batch 1 readings]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/854174)  
 
 Week 4
-- 1/24 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Sample projects from previous years]]().  
+- 1/24 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15479195).  
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15474362) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
 - 1/26 - [[Emotional interaction]].  
