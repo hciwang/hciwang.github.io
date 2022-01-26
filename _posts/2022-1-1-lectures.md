@@ -57,7 +57,7 @@ Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder
 - 1/26 - [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15344336).  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*. 
 
-- 1/26 Discussion - [[Discussion Session: Brainstorming activity led by TA]]
+- 1/26 Discussion - [[Discussion Session: Brainstorming activity led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15517471).  
 - 1/28 - [[Emotional interaction]].  
 
 Week 5
