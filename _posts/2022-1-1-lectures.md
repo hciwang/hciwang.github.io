@@ -93,5 +93,5 @@ Week 6
 
 
 #### Group project
-- [[Project assignment, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
+- [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
 - [[Progress report]]
