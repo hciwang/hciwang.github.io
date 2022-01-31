@@ -74,7 +74,7 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folde
 
 - 2/4 - 
 
-Out: 
+Out: [[Assignment 2]] (Assignment 2 will be posted on Feb 2)  
 Due: [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).   
 
