@@ -69,7 +69,8 @@ Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/633616/fil
 - 2/2 - [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15584458&sort=modified_at&order=desc).   
 Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15578746) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.  
 
-- 2/2 Discussion - 
+- 2/2 Discussion - [[Discussion Session: Group brainstorming led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15616022).  
+
 
 - 2/4 - 
 
