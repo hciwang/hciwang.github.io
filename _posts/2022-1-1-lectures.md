@@ -71,14 +71,25 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folde
 
 - 2/2 Discussion - [[Discussion Session: Group brainstorming led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15616022).  
 
-
-- 2/4 - 
+- 2/4 - [[Interface types]](). 
+Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation"). 
 
 Out: [[Assignment 2]] (Assignment 2 will be posted on Feb 2)  
 Due: [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).   
 
 Week 6
+- 2/7 - 
+- 2/9 -
+- 2/9 Discussion -
+- 2/10 -
+
+Week 7
+- 2/14 - 
+- 2/16 -
+- 2/16 Discussion - 
+- 2/18 - 
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -99,6 +110,8 @@ Week 6
 - [[Andelson]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15551134) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.    
 - [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15578743) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.   
 - [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15578746) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.  
+- [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation").  
 
 
 #### Individual assignments
