@@ -71,7 +71,7 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folde
 
 - 2/2 Discussion - [[Discussion Session: Group brainstorming led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15616022).  
 
-- 2/4 - [[Interface types]](). 
+- 2/4 - [[Interface types]]().    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation"). 
 
