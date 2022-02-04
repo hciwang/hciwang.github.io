@@ -71,11 +71,11 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folde
 
 - 2/2 Discussion - [[Discussion Session: Group brainstorming led by TA]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15616022).  
 
-- 2/4 - [[Interface types]]().    
+- 2/4 - [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation"). 
 
-Out: [[Assignment 2]] (Assignment 2 will be posted on *Feb 3*)  
+Out: [[Assignment 2]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 20).     
 Due: [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).   
 
@@ -116,6 +116,7 @@ Week 7
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).  
+- [[Assignment 2]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 20).
 
 
 #### Group project
