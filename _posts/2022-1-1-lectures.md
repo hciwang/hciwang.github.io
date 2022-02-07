@@ -80,15 +80,22 @@ Due: [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/63361
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).   
 
 Week 6
-- 2/7 - 
-- 2/9 -
-- 2/9 Discussion -
-- 2/10 -
+- 2/7 - [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.   
+
+- 2/9 -  [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
+
+- 2/9 Discussion - [[TA Midterm Review]].  
+
+- 2/11 - [[Instructor's Midterm Review]] [[Prototyping Interactions]].  
+Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
+
 
 Week 7
 - 2/14 - 
-- 2/16 -
-- 2/16 Discussion - 
+- 2/16 - Midterm
+- 2/16 Discussion - No Discussion
 - 2/18 - 
 
 ### Assignments, readings and deliverables at a glance:
@@ -112,6 +119,9 @@ Week 7
 - [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15578746) Alex Sciuto, Arnita Saini, Jodi Forlizzi, and Jason I. Hong. 2018. "Hey Alexa, What's Up?": A Mixed-Methods Studies of In-Home Conversational Agent Usage. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS '18). ACM, New York, NY, USA, 857-868.  
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation").  
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.   
+- [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
+- [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
 
 
 #### Individual assignments
