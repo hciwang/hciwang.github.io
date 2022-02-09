@@ -86,7 +86,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 2/9 -  [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
 Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 
-- 2/9 Discussion - [[TA Midterm Review]].  
+- 2/9 Discussion - [[TA Midterm Review]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15717558&sort=created_at&order=desc). 
 
 - 2/11 - [[Instructor's Midterm Review]] [[Prototyping Interactions]].  
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
