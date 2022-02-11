@@ -88,9 +88,11 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 
 - 2/9 Discussion - [[TA Midterm Review]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15717558&sort=created_at&order=desc). 
 
-- 2/11 - [[Instructor's Midterm Review]] [[Prototyping Interactions]].  
+- 2/11 - [[Instructor's Midterm Review]] .  
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
 
+Out: [[Project proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/633616/assignments/830801).   
+Due: [Paper commenting for Batch 1 readings, Feb 13]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948). 
 
 Week 7
 - 2/14 - 
@@ -131,4 +133,4 @@ Week 7
 
 #### Group project
 - [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
-- [[Progress report]]
+- [[Proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/633616/assignments/830801). 
