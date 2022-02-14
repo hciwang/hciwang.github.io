@@ -92,7 +92,7 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 Reading: [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
 
 Out: [[Project proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/633616/assignments/830801).   
-Due: [[Paper commenting for Batch 1 readings, Feb 13]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948). 
+Due: [[Paper commenting for Batch 1 readings, Feb 13; now extended to Feb 16]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948). 
 
 Week 7
 - 2/14 - [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
@@ -117,7 +117,7 @@ No reading
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
-#### Batch 2 (commenting on the [discussion thread for Batch 2 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948) due Feb 13; extended to Feb 15)
+#### Batch 2 (commenting on the [discussion thread for Batch 2 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948) due Feb 13; extended to Feb 16)
 - [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15474362) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*. 
 - [[Andelson]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15551134) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.    
