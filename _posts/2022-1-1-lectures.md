@@ -95,9 +95,13 @@ Out: [[Project proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/6
 Due: [[Paper commenting for Batch 1 readings, Feb 13]](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948). 
 
 Week 7
-- 2/14 - 
+- 2/14 - [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
+No reading
+
 - 2/16 - Midterm
 - 2/16 Discussion - No Discussion
+No reading
+
 - 2/18 - 
 
 ### Assignments, readings and deliverables at a glance:
@@ -113,7 +117,7 @@ Week 7
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6*.  
 - [[Picard]](https://affect.media.mit.edu/pdfs/03.picard.pdf) Picard, R. (2003). Affective Computing: Challenges.   
 
-#### Batch 2 (commenting on the [discussion thread for Batch 2 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948) due Feb 13)
+#### Batch 2 (commenting on the [discussion thread for Batch 2 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/872948) due Feb 13; extended to Feb 15)
 - [[Gaver et al.]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15474362) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*. 
 - [[Andelson]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15551134) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.    
