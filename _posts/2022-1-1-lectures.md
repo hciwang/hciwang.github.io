@@ -75,7 +75,7 @@ Reading: [[Sciuto et al.]](https://canvas.ucdavis.edu/courses/633616/files/folde
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation"). 
 
-Out: [[Assignment 2: Needfinding]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 20).     
+Out: [[Assignment 2: Needfinding]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 22).     
 Due: [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408).   
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).   
 
@@ -132,7 +132,7 @@ No reading
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 2]](https://canvas.ucdavis.edu/courses/633616/assignments/820406).  
-- [[Assignment 2: Needfinding]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 20).
+- [[Assignment 2: Needfinding]](https://canvas.ucdavis.edu/courses/633616/assignments/827946) (Assignment 2 will be posted on *Feb 3*; due Feb 22).
 
 
 #### Group project
