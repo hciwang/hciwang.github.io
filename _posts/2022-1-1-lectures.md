@@ -98,8 +98,8 @@ Week 7
 - 2/14 - [[Interface types]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15650143).  
 No reading
 
-- 2/16 - Midterm
-- 2/16 Discussion - No Discussion
+- 2/16 - Midterm (see Canvas for the announcement and questions)
+- 2/16 Discussion - No Discussion. 
 No reading
 
 - 2/18 - 
