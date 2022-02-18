@@ -102,7 +102,8 @@ No reading
 - 2/16 Discussion - No Discussion. 
 No reading
 
-- 2/18 - 
+- 2/18 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).  
+Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -128,6 +129,9 @@ No reading
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.   
 - [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.  
 - [[Komlodi et al.]](http://www.id-book.com/downloads/casestudy_14point2.pdf) Komlodi, A., Hou, W., Preece, J., Druin, A., Golub, E., Alburo, J., Liao, S., Elkiss, A., & Resnick, P. (2007). Evaluating Early Prototype Technology and Activities in the Development of Online, Cross-Cultural, Children's Book Communities.   
+
+#### Batch 3 
+- [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88). 
 
 
 #### Individual assignments
