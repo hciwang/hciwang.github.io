@@ -105,6 +105,12 @@ No reading
 - 2/18 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).  
 Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
 
+
+Week 8
+- 2/21 - National holidays.
+- 2/23 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).   
+- 2/23 Discussion - [[Low-fidelty prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15897684). 
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
