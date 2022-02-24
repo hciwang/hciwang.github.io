@@ -109,7 +109,9 @@ Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/fold
 Week 8
 - 2/21 - National holidays.
 - 2/23 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).   
-- 2/23 Discussion - [[Low-fidelty prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15897684). 
+Reading: [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15909847)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+- 2/23 Discussion - [[Low-fidelty prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15897684).  
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction 
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -138,6 +140,8 @@ Week 8
 
 #### Batch 3 (commenting on the [discussion thread for Batch 3 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/891878) due Mar 11)
 - [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88). 
+- [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15909847)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction
 
 
 #### Individual assignments
