@@ -108,10 +108,27 @@ Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/fold
 
 Week 8
 - 2/21 - National holidays.
+
 - 2/23 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).   
 Reading: [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15909847)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
 - 2/23 Discussion - [[Low-fidelty prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15897684).  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction 
+
+- 2/25 - [[Prototyping interactions]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925).   
+Reading: [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
+
+Week 9 
+- 2/28 - [[Video prototyping]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15957927). 
+Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15957992) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206. 
+
+- 3/2 - [[Video prototyping]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15957927). 
+Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+
+- 3/2 Discussion - [[Prototyping tutorial]] 
+
+- 3/4 - [[Evaluation]]
+Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.
+
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -141,7 +158,12 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 #### Batch 3 (commenting on the [discussion thread for Batch 3 readings](https://canvas.ucdavis.edu/courses/633616/discussion_topics/891878) due Mar 11)
 - [[Landay & Myers]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15839925) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88). 
 - [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15909847)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).   
-- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction. 
+- [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
+- [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/633616/files/folder/Misc%20files?preview=15957992) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206. 
+- [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+- [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison.   2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.  
+- 
 
 
 #### Individual assignments
