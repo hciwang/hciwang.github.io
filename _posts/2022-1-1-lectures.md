@@ -124,7 +124,7 @@ Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/633616/files/fold
 - 3/2 - [[Video prototyping]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15957927).   
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 
-- 3/2 Discussion - [[Prototyping tutorial]] 
+- 3/2 Discussion - [[Prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15988743).  
 
 - 3/4 - [[Evaluation]].   
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.
