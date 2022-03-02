@@ -129,6 +129,10 @@ Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyc
 - 3/4 - [[Evaluation]].   
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.
 
+Week 10
+- 3/7 - [[From Practice to Research: HCI Research Overview]]
+- 3/9 - Final presentations (see Canvas for announcement and scheduling)
+- 3/11 - Final presentatiions (see Canvas for announcement and scheduling)
 
 ### Assignments, readings and deliverables at a glance:
 
