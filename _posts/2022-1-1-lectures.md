@@ -126,7 +126,7 @@ Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyc
 
 - 3/2 Discussion - [[Prototyping tutorial]](https://canvas.ucdavis.edu/courses/633616/files/folder/Discussion%20slides?preview=15988743).  
 
-- 3/4 - [[Evaluation]].   
+- 3/4 - [[Evaluation]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=16119236). [[Interview Worksheet]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=16119237).       
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.
 
 Week 10
