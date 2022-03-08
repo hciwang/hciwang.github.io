@@ -130,7 +130,7 @@ Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyc
 Reading: [[Hancock, Toma, Ellison]](https://sml.stanford.edu/ml/2007/05/hancock-chi-the-truth-about-lying.pdf) Jeffrey T. Hancock, Catalina Toma, and Nicole Ellison. 2007. The truth about lying in online dating profiles. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '07). ACM, New York, NY, USA, 449-452.
 
 Week 10
-- 3/7 - [[From Practice to Research: HCI Research Overview]]
+- 3/7 - [[Evaluation]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=16119236). [[Interview Worksheet]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=16119237).     
 - 3/9 - Final presentations (see Canvas for announcement and scheduling)
 - 3/11 - Final presentatiions (see Canvas for announcement and scheduling)
 
@@ -178,3 +178,5 @@ Week 10
 #### Group project
 - [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
 - [[Proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/633616/assignments/830801). 
+- [[Project presenttation and demo, Mar 9 and 11]]
+- [[Project final report, due Mar 18]](https://canvas.ucdavis.edu/courses/633616/assignments/833769).   
