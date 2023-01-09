@@ -4,6 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
+*THE PAGE NOW SHOWS THE SCHEDULE FROM WINTER 2022 FOR ILLSURTATION OF THE COURSE PLAN. IT WILL BE UPDATED BY JAN 10*
 ### Lectures, readings and assignments ordered by dates:
 Week 1  
 - 1/3 - [[Course structure and requirements]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218366), [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/633616/files/folder/Lecture%20slides?preview=15218365)  
