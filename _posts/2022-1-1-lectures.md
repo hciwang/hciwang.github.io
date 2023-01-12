@@ -45,7 +45,7 @@ Due: [[Final Project Team Formation]]
 
 
 #### Group project
-- [[Project proposal, due Jan 31st]](https://canvas.ucdavis.edu/courses/633616/assignments/820408). 
-- [[Proress report. due Feb 28]](https://canvas.ucdavis.edu/courses/633616/assignments/830801). 
-- [[Project presenttation and demo, Mar 9 and 11]]
-- [[Project final report, due Mar 18]](https://canvas.ucdavis.edu/courses/633616/assignments/833769).   
+- [[Project proposal]](). 
+- [[Proress report]](). 
+- [[Project presenttation and demo]]. 
+- [[Project final report]]. 
