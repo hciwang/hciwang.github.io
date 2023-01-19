@@ -32,7 +32,8 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 3. 
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19106534) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
   
-Due: [[Final Project Team Formation]]
+Due: [[Final Project Team Formation]](https://canvas.ucdavis.edu/courses/747452/assignments/1009574).  
+Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 3]] 
 
 
 
@@ -54,7 +55,7 @@ Due: [[Final Project Team Formation]]
 
 
 #### Group project
-- [[Project proposal]]. 
+- [[Project proposal, due Feb 5]]. 
 - [[Proress report]]. 
 - [[Project presenttation and demo]]. 
 - [[Project final report]]. 
