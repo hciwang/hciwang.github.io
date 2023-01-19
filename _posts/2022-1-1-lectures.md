@@ -23,7 +23,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 
 Week 2
 - 1/16 -  Holiday
-- 1/18 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19027057), [[Conceptualizing Interactions]]().
+- 1/18 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19027057), [[Conceptualizing Interactions]]().  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 2. 
 
 - 1/20 Discussion - [[TA: Discusssion Session- Design Thinking and Problem Framing]]() 
