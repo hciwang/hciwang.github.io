@@ -23,12 +23,12 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 
 Week 2
 - 1/16 -  Holiday
-- 1/18 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19027057), [[Conceptualizing Interactions]]().  
+- 1/18 - [[What is Human Computer Interaction design]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19027057), [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085).  
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 2. 
 
 - 1/20 Discussion - [[TA: Discusssion Session- Design Thinking and Problem Framing]]() 
 
-- 1/20. [[Conceptualizing Interactions]](), [[Cognitive Foundation]](). 
+- 1/20. [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085), [[Cognitive Foundation]](). 
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 3. 
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19106534) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
   
