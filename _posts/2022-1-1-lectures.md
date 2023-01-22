@@ -60,7 +60,7 @@ Week 3
 
 
 #### Group project
-- [[Project proposal, due Feb 7]]. 
+- [[Project proposal, due Feb 7]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report]]. 
 - [[Project presenttation and demo]]. 
 - [[Project final report]]. 
