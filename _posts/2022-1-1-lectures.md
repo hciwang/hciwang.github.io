@@ -60,7 +60,7 @@ Week 3
 
 
 #### Group project
-- [[Project proposal, due Feb 5]]. 
+- [[Project proposal, due Feb 7]]. 
 - [[Proress report]]. 
 - [[Project presenttation and demo]]. 
 - [[Project final report]]. 
