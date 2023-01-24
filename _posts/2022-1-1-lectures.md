@@ -28,7 +28,7 @@ Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-e
 
 - 1/20 Discussion - [[TA: Discusssion Session- Design Thinking and Problem Framing]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19135767).  
 
-- 1/20. [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085), [[Cognitive Foundation]]().  
+- 1/20. [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085)
 Reading: [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 3.   
 Reading: [[Carroll]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19106534) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
   
@@ -36,10 +36,15 @@ Due: [[Final Project Team Formation, due Jan 23]](https://canvas.ucdavis.edu/cou
 Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
 
 Week 3
-- 1/23
-- 1/25
+- 1/23 [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085), [[Cognitive foundation]](). 
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
+
+- 1/25. [[Cognitive foundation cont.]](), [[Instructor's note about project proposal]]()  
+Reading: [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880.  
+
 - 1/27 Discussion - [[]]
 - 1/27
+Reading: [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 
 ### Assignments, readings and deliverables at a glance:
@@ -52,6 +57,9 @@ Week 3
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 2. 
 - [[Norman]](https://www.basicbooks.com/titles/don-norman/the-design-of-everyday-things/9780465050659/) The Design of Everyday Things: Revised and Expanded Edition. Basic Books. Chapter 3. 
 - [[Carroll]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19106534) Carroll, J. (1997). Human-Computer Interaction: Psychology as a Science of Design. Annual Review of Psychology, 48, pp. 61-83.  
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 6* .  
+- [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880. 
+- [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 
 
