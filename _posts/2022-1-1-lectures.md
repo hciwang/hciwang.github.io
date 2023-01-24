@@ -36,14 +36,14 @@ Due: [[Final Project Team Formation, due Jan 23]](https://canvas.ucdavis.edu/cou
 Out: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
 
 Week 3
-- 1/23 [[Conceptualizing Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085), [[Cognitive foundation]]().   
+- 1/23 [[Conceptualizing Interactions, cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19107085), [[Cognitive foundation]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19162176).   
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.   *Chapter 6* .  
 
-- 1/25. [[Cognitive foundation cont.]](), [[Instructor's note about project proposal]]()  
+- 1/25. [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19162176), [[Instructor's note about project proposal]]()  
 Reading: [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880.  
 
-- 1/27 Discussion - [[]]
-- 1/27.  
+- 1/27 Discussion - [[TA: Discusssion Session- Needfinding Activity]]
+- 1/27.    
 Reading: [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 
