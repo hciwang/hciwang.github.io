@@ -43,7 +43,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Reading: [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880.  
 
 - 1/27 Discussion - [[TA: Discusssion Session- Needfinding Activity]]
-- 1/27.    
+- 1/27. [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217   
 Reading: [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 Week 4
