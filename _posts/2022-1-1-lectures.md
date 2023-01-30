@@ -47,10 +47,15 @@ Reading: [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%
 Reading: [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 Week 4
-- 1/30 [[Cognitive foundation, wrapping up. Mental model]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217).    
-- 2/1
+- 1/30 [[Cognitive foundation, wrapping up. Mental model]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/539971/files/folder/Lectures?preview=11506090).     
+Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248658) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
+
+- 2/1 [[Emotional interaction]]().   
+Reading:
+
 - 2/3 Discussion
 - 2/3
+Reading: 
 
 ### Assignments, readings and deliverables at a glance:
 
