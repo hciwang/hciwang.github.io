@@ -50,7 +50,7 @@ Week 4
 - 1/30 [[Cognitive foundation, wrapping up. Mental model]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248600).     
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248658) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
-- 2/1 [[Emotional interaction]]().  
+- 2/1 [[Emotional interaction]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 
 - 2/3 Discussion
