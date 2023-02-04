@@ -56,7 +56,8 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 2/3 Discussion [[TA: Discusssion Session- Persona and Brainstorming]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19302750). 
 
 - 2/3 [[Persona tutorial by the Instructor]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19310808), [[Persona discussion activity]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19310811).   
-Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
+Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.   
+Reading: [[Interaction-Design.org]](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) Rikke Friis Dam and Teo Yu Siang. 2022. Personas – A Simple Introduction.  
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -76,6 +77,7 @@ Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Mis
 - [[Gaver et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248658) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 - [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
+- [[Interaction-Design.org]](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) Rikke Friis Dam and Teo Yu Siang. 2022. Personas – A Simple Introduction.
 
 #### Individual assignments
 
