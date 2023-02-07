@@ -59,6 +59,18 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Reading: [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.   
 Reading: [[Interaction-Design.org]](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) Rikke Friis Dam and Teo Yu Siang. 2022. Personas – A Simple Introduction.  
 
+Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
+
+Week 5
+- 2/6 [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  
+Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
+
+- 2/8
+- 2/10 Discussion
+- 2/10
+
+Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
@@ -83,7 +95,7 @@ Reading: [[Interaction-Design.org]](https://www.interaction-design.org/literatur
 
 
 #### Group project
-- [[Project proposal, due Feb 7]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
+- [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report]]. 
 - [[Project presenttation and demo]]. 
 - [[Project final report]]. 
