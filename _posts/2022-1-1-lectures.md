@@ -43,11 +43,11 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 Reading: [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880.  
 
 - 1/27 Discussion - [[TA: Discusssion Session- Needfinding Activity]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19249118). 
-- 1/27. [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217).   
+- 1/27. [[Cognitive foundation, cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19162176).   
 Reading: [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
 Week 4
-- 1/30 [[Cognitive foundation, wrapping up. Mental model]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=1916217), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248600).     
+- 1/30 [[Cognitive foundation, wrapping up. Mental model]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19162176), [[Sample projects from previous years]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248600).     
 Reading: [[Gaver et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248658) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 
 - 2/1 [[Emotional interaction]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  
