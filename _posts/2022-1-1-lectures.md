@@ -69,6 +69,7 @@ Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/fil
 - 2/10 Discussion
 - 2/10
 
+Out: [[Assignment 2]](, due Feb 24)().
 Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 
 ### Assignments, readings and deliverables at a glance:
