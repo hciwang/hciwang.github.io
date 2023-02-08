@@ -85,7 +85,7 @@ Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/a
 - [[Oviatt]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161668) Sharon Oviatt. 2006. Human-centered design meets cognitive load theory: designing interfaces that help people think. In Proceedings of the 14th ACM international conference on Multimedia (MM '06). Association for Computing Machinery, New York, NY, USA, 871–880. 
 - [[Picard]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19161740). Picard, R. W. (2003). Affective computing: challenges. International Journal of Human-Computer Studies, 59(1-2), 55-64.  
 
-#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/747452/discussion_topics/1068398) due Feb 20th). 
+#### Batch 2 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/747452/discussion_topics/1068398) due Feb 24th). 
 - [[Gaver et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19248658) Gaver, W. et al. 2004. The Drift Table: Designing for Ludic Engagement. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Extended Abstract.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 - [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
