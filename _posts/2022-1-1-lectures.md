@@ -66,6 +66,8 @@ Week 5
 Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 
 - 2/8
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
+
 - 2/10 Discussion
 - 2/10
 
@@ -91,6 +93,8 @@ Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/a
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 4*     
 - [[Andelson]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19310641) Beth Adelson. 2010. The emotional design of everyday things: The 2006 Benjamin Franklin Medal in Computer and Cognitive Science presented to Donald A. Norman, Journal of the Franklin Institute, Volume 347, Issue 4, Pages 681-687.  
 - [[Interaction-Design.org]](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) Rikke Friis Dam and Teo Yu Siang. 2022. Personas – A Simple Introduction.
+- [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
 
 #### Individual assignments
 
