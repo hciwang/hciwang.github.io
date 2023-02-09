@@ -62,11 +62,11 @@ Reading: [[Interaction-Design.org]](https://www.interaction-design.org/literatur
 Due: [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
 
 Week 5
-- 2/6 [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  
+- 2/6. [[Emotional interaction cont.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  
 Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 
-- 2/8
-Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
+- 2/8. [[Emotional interaction wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512). 
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")   
 
 - 2/10 Discussion
 - 2/10
