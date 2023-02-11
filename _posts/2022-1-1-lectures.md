@@ -68,8 +68,10 @@ Reading: [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/fil
 - 2/8. [[Emotional interaction wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19280251).  [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).    
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")   
 
-- 2/10 Discussion
-- 2/10
+- 2/10 Discussion [[TA: Discusssion Session- Brainstorming II]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19389145). 
+
+- 2/10 [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).    
+Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 
 Out: [[Assignment 2]](, due Feb 24)().  
 Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
@@ -95,6 +97,7 @@ Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/a
 - [[Interaction-Design.org]](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) Rikke Friis Dam and Teo Yu Siang. 2022. Personas – A Simple Introduction.
 - [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
+- [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 
 #### Individual assignments
 
