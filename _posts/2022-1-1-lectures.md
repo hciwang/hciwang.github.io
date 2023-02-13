@@ -73,7 +73,7 @@ Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen
 - 2/10 [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).    
 Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 
-Out: [[Assignment 2]](, due Feb 24)().  
+Out: [[Assignment 2, due Feb 16]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
 Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 
 ### Assignments, readings and deliverables at a glance:
@@ -100,7 +100,8 @@ Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/a
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 
 #### Individual assignments
-
+- [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
+- [[Assignment 2, due Feb 16]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
 
 #### Group project
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
