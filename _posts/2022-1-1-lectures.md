@@ -76,6 +76,14 @@ Reading: [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-en
 Out: [[Assignment 2, due Feb 26]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
 Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 
+Week 6
+- 2/13 [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).  
+Reading: [Preece, Sharp & Rogers] Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 8.   
+
+- 2/15
+- 2/17 Discussion [[TA: Discusssion Session- Midterm review, TA version]]
+- 2/17 [[Midterm review]]
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
