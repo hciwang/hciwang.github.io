@@ -78,7 +78,7 @@ Due: [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/a
 
 Week 6
 - 2/13 [[Interface types]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).  
-Reading: [Preece, Sharp & Rogers] Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 8.   
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.    
 
 - 2/15
 - 2/17 Discussion [[TA: Discusssion Session- Midterm review, TA version]]
@@ -106,6 +106,7 @@ Reading: [Preece, Sharp & Rogers] Jenny Preece, Helen Sharp, Yvonne Rogers. 2019
 - [[Følstad & Brandtzæg]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19341952) Asbjørn Følstad & Petter Brandtzæg. 2017. Chatbots and The New World of HCI. ACM Interactions Magazine.  
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons.  *Chapter 16* (make sure that you read about "Heuristic Evaluation")  
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.    
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
