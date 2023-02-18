@@ -121,5 +121,5 @@ Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-dif
 #### Group project
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764).   
-- [[Project presenttation and demo]]. 
+- [[Project presentation and demo]]. 
 - [[Project final report]]. 
