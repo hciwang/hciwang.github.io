@@ -85,7 +85,7 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 
 - 2/17 Discussion [[TA: Discusssion Session- Midterm review, TA version]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19494782).  
 
-- 2/17 [[Instructor's Midterm review]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19494800). 
+- 2/17 [[Instructor's Midterm review]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19494800).   
 Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each.   
 
 ### Assignments, readings and deliverables at a glance:
