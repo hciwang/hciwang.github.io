@@ -81,9 +81,12 @@ Week 6
 Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.    
 
 - 2/15 [[Interface types. wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512). 
-Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.    
-- 2/17 Discussion [[TA: Discusssion Session- Midterm review, TA version]]
-- 2/17 [[Midterm review]]
+Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.   
+
+- 2/17 Discussion [[TA: Discusssion Session- Midterm review, TA version]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19494782).  
+
+- 2/17 [[Instructor's Midterm review]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19494800). 
+Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each.   
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -109,7 +112,7 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 - [[Kjeldskov]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/mobile-computing) Kjeldskov, J. Mobile Computing. The Encyclopedia of Human-Computer Interaction, 2nd Ed.   
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.    
 - [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.   
-
+- [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each. 
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
