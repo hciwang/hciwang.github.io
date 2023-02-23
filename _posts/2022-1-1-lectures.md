@@ -89,11 +89,12 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each.   
 
 Week 7
-
-- 2/22 [[Interface types. wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).   
+- 2/22 [[Interface types. wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512), [[Prototyping Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19549410).     
 Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19549339) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
 
-- 2/24 4:10-5:40PM Midterm exam
+- 2/24 4:10-5:40pm Midterm exam
+
+Due: [[Assignment 2, due Feb 26]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).
 
 ### Assignments, readings and deliverables at a glance:
 
