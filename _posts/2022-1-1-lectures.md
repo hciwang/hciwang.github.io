@@ -88,6 +88,13 @@ Reading: [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/pr
 - 2/17 [[Instructor's Midterm review]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19494800).   
 Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each.   
 
+Week 7
+
+- 2/22 [[Interface types. wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19373512).   
+Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19549339) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .   
+
+- 2/24 4:10-5:40PM Midterm exam
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
@@ -113,6 +120,7 @@ Reading: [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-dif
 - [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2019. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. *Chapter 8*.    
 - [[Usability.gov]](https://www.usability.gov/how-to-and-tools/methods/prototyping.html) Usability.gov. Prototyping.   
 - [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each. 
+- [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19549339) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
