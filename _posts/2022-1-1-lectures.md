@@ -94,7 +94,7 @@ Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/fold
 
 - 2/24 4:10-5:40pm Midterm exam
 
-Due: [[Assignment 2, due Feb 26]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).
+Due: [[Assignment 2, now due Feb 28]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -125,7 +125,7 @@ Due: [[Assignment 2, due Feb 26]](https://canvas.ucdavis.edu/courses/747452/assi
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
-- [[Assignment 2, due Feb 26]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
+- [[Assignment 2, due Feb 28]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
 
 #### Group project
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
