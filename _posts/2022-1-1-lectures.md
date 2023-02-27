@@ -147,4 +147,4 @@ Due: [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/ass
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764).   
 - [[Project presentation and demo]]. 
-- [[Project final report, due Mar 20]]. 
+- [[Project final report, due Mar 22]]. 
