@@ -96,6 +96,18 @@ Reading: [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/fold
 
 Due: [[Assignment 2, now due on Feb 28]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).
 
+Week 8
+- 2/27 [[Prototyping Interactions]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19549410).  
+Reading: [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction .  
+Reading:  [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
+
+- 3/1
+
+- 3/3
+
+Due: [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764). 
+
+
 ### Assignments, readings and deliverables at a glance:
 
 #### Readings
@@ -123,6 +135,10 @@ Due: [[Assignment 2, now due on Feb 28]](https://canvas.ucdavis.edu/courses/7474
 - [[Babich]](https://blog.adobe.com/en/publish/2017/11/29/prototyping-difference-low-fidelity-high-fidelity-prototypes-use) Nick Babich. 2017. Prototyping 101: The difference between low-fidelity and high-fidelity prototypes and when to use each. 
 - [[Landay & Myers]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19549339) Landay, J., & Myers, B. 1995. Interactive sketching for the early stages of user interfac edesign. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). Also check the [video demo of SILK](https://www.youtube.com/watch?v=VLQcW6SpJ88) .  
 
+#### Batch 3 (commenting on the [discussion thread](https://canvas.ucdavis.edu/courses/747452/discussion_topics/1083218) due Mar 15). 
+- [[Preece, Sharp & Rogers]](http://www.id-book.com/) Jenny Preece, Helen Sharp, Yvonne Rogers. 2015. Interaction Design: Beyond Human-Computer Interaction. 5th Ed. John Wiley & Sons. Chapter 12, Design, Prototyping and Construction . 
+- [[Wang, Fussell, Setlock]](http://www.cs.cornell.edu/~haochuan/manuscripts/WangFussellSetlock_CHI_09.pdf) Hao-Chuan Wang, Susan Fussell, Leslie Setlock. 2009. Cultural Difference ana Adaptation of Communication Styles in Computer-Mediated Group Brainstorming.  Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).     
+
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
 - [[Assignment 2, now due on Feb 28]](https://canvas.ucdavis.edu/courses/747452/assignments/1017746).  
@@ -131,4 +147,4 @@ Due: [[Assignment 2, now due on Feb 28]](https://canvas.ucdavis.edu/courses/7474
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764).   
 - [[Project presentation and demo]]. 
-- [[Project final report]]. 
+- [[Project final report, due Mar 20]]. 
