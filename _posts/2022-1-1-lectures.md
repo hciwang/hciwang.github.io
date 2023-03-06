@@ -113,8 +113,7 @@ Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/747452/files/fold
 Due: [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764). 
 
 Week 9
-
-- 3/6 [[Video prototyping]]().   
+- 3/6 [[Video prototyping]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171).   
 Reading: [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.  
 
 - 3/8
