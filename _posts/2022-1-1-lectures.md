@@ -107,7 +107,7 @@ Reading: [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/747452/files/fo
 - 3/3 Discussion [[TA: Discusssion Session- Protortping I - Lo-Fi prototype]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19761758).  
 
 
-- 3/3  [[Prototyping Interactions, conclusion ]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19549410). 
+- 3/3  [[Prototyping Interactions, conclusion ]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19549410).   
 Reading: [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19761624&sort=created_at&order=desc) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 
 Due: [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764). 
