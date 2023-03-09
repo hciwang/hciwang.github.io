@@ -116,7 +116,7 @@ Week 9
 - 3/6 [[Video prototyping]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171).   
 Reading: [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.  
 
-- 3/8 [[Video prototyping wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171). [[Evaluation]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823328). [[Interview worksheet]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823330). 
+- 3/8 [[Video prototyping wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171). [[Evaluation]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823507). [[Interview worksheet]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823330). 
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 
 - 3/10 Discussion
