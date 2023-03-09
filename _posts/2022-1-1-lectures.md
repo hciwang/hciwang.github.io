@@ -116,7 +116,10 @@ Week 9
 - 3/6 [[Video prototyping]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171).   
 Reading: [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.  
 
-- 3/8
+- 3/8 [[Video prototyping wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171). [[Evaluation]]
+Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+
+
 - 3/10 Discussion
 - 3/10
 
@@ -154,6 +157,8 @@ Reading: [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder
 - [[Grevet & Gilbert]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19733976)  Grevet, C., & Gilbert, E. 2015. Piggyback Prototyping: Using Exisitng, Large-Scale Social Computing Systems to Prototype New Ones. Proceedings of ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).  
 - [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19761624&sort=created_at&order=desc) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 - [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.   
+- [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
+
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
