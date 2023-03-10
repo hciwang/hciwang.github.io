@@ -167,5 +167,5 @@ Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.ed
 #### Group project
 - [[Project proposal, due Feb 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1010534).   
 - [[Proress report, due Mar 3]](https://canvas.ucdavis.edu/courses/747452/assignments/1019764).   
-- [[Project presentation and demo, sign-up for presentations by Mar 8]](https://canvas.ucdavis.edu/courses/747452/discussion_topics/1086073). 
-- [[Project final report, due Mar 22]]. 
+- [[Project presentation and demo, sign-up for presentations by Mar 8]](https://canvas.ucdavis.edu/courses/747452/assignments/1027771). 
+- [[Project final report, due Mar 22]](https://canvas.ucdavis.edu/courses/747452/assignments/1027774).   
