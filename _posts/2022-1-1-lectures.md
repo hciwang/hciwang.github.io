@@ -116,13 +116,13 @@ Week 9
 - 3/6 [[Video prototyping]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171).   
 Reading: [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.  
 
-- 3/8 [[Video prototyping wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171). [[Evaluation]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823507). [[Interview worksheet]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823330). 
+- 3/8 [[Video prototyping wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19788171). [[Evaluation I]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823507). [[Interview worksheet]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823330). 
 Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
 
 - 3/10 Discussion [[TA: Discusssion Session- Protortping II - Hi-Fi/interactive prototype]](https://canvas.ucdavis.edu/courses/747452/files/folder/Discussion%20slides?preview=19847165). 
 
-- 3/10
-
+- 3/10  [[Evaluation I wrap-up]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19823507). [[Evaluation II]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19849914&sort=modified_at&order=desc). [[Experimental design worksheet]](https://canvas.ucdavis.edu/courses/747452/files/folder/Lecture%20slides?preview=19849915&sort=modified_at&order=desc).     
+Reading:  [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 ### Assignments, readings and deliverables at a glance:
 
@@ -158,7 +158,7 @@ Reading: [[Cairns]](https://www.interaction-design.org/literature/book/the-encyc
 - [[Ruiz, Li, Lank]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19761624&sort=created_at&order=desc) Jaime Ruiz, Yang Li, and Edward Lank. 2011. User-defined motion gestures for mobile interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11). ACM, New York, NY, USA, 197-206.  
 - [[Leiva et al.]](https://canvas.ucdavis.edu/courses/747452/files/folder/Misc%20files?preview=19787937) Germán Leiva, Cuong Nguyen, Rubaiat Habib Kazi, and Paul Asente. 2020. Pronto: Rapid Augmented Reality Video Prototyping Using Sketches and Enaction. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20). Association for Computing Machinery, New York, NY, USA, 1–13.   
 - [[Cairns]](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/experimental-methods-in-human-computer-interaction) Paul Cairns, Experimental Methods in Human-Computer Interaction. The Encyclopedia of Human-Computer Interaction, 2nd Ed.  
-
+- [[Bos, Gergle, Olson, Olson, Wright]](http://collablab.northwestern.edu/CollabolabDistro/nucmc/p135-bos.pdf) Nathan Bos, Judy Olson, Darren Gergle, Gary Olson, and Zach Wright. 2002. Effects of four computer-mediated communications channels on trust development. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02). ACM, New York, NY, USA, 135-140.   
 
 #### Individual assignments
 - [[Assignment 1: Conceptualizing Human Computer Interaction, due Feb 5]](https://canvas.ucdavis.edu/courses/747452/assignments/1010532). 
